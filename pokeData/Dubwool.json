@@ -1,0 +1,138 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "44": ["Cotton Guard"],
+    "1": [
+      "Tackle",
+      "Growl",
+      "Defense Curl",
+      "Copycat"
+    ],
+    "12": ["Guard Split"],
+    "56": ["Last Resort"],
+    "16": ["Double Kick"],
+    "27": ["Take Down"],
+    "38": ["Reversal"],
+    "50": ["Double-Edge"],
+    "21": ["Headbutt"],
+    "32": ["Guard Swap"]
+  },
+  "tmMoves8": [
+    1,
+    8,
+    9,
+    14,
+    21,
+    24,
+    25,
+    31,
+    39,
+    52,
+    57,
+    61,
+    76,
+    79
+  ],
+  "tmMoves": [
+    "Agility",
+    "Attract",
+    "Baton Pass",
+    "Body Press",
+    "Body Slam",
+    "Bounce",
+    "Electro Ball",
+    "Endure",
+    "Facade",
+    "Giga Impact",
+    "Guard Swap",
+    "Hyper Beam",
+    "Mega Kick",
+    "Payback",
+    "Protect",
+    "Rest",
+    "Retaliate",
+    "Reversal",
+    "Round",
+    "Sleep Talk",
+    "Snore",
+    "Substitute",
+    "Swords Dance",
+    "Thunder Wave",
+    "Wild Charge",
+    "Zen Headbutt"
+  ],
+  "tutorMoves": ["Grassy Glide"],
+  "catchRate": 127,
+  "spawnLevel": 24,
+  "abilities": [
+    "Fluffy",
+    "Steadfast",
+    "Bulletproof"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Stomp",
+    "Swagger"
+  ],
+  "isRideable": true,
+  "malePercent": 50,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": -1,
+      "z": -0.5
+    },
+    "moving": {
+      "x": 0,
+      "y": -1,
+      "z": -0.5
+    }
+  },
+  "stats": {
+    "Speed": 88,
+    "HP": 72,
+    "SpecialDefence": 90,
+    "Attack": 80,
+    "SpecialAttack": 60,
+    "Defence": 100
+  },
+  "eggCycles": 15,
+  "spawnLocations": ["Land"],
+  "evYields": {"Defence": 2},
+  "evolutions": [],
+  "experienceGroup": "MediumFast",
+  "height": 1.3,
+  "baseExp": 172,
+  "types": ["Normal"],
+  "pixelmonName": "Dubwool",
+  "pokemon": "Dubwool",
+  "eggGroups": ["Field"],
+  "preEvolutions": ["Wooloo"],
+  "length": 1.2,
+  "trMoves": [
+    0,
+    1,
+    12,
+    20,
+    21,
+    26,
+    27,
+    29,
+    69,
+    80,
+    86,
+    99
+  ],
+  "weight": 43,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 50,
+  "form": 0,
+  "spawnLevelRange": 20,
+  "width": 1.2,
+  "canFly": false,
+  "forms": {}
+}

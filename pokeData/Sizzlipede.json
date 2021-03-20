@@ -1,0 +1,118 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "0": [
+      "Ember",
+      "Smokescreen"
+    ],
+    "55": ["Burn Up"],
+    "45": ["Fire Lash"],
+    "35": ["Fire Spin"],
+    "25": ["Coil"],
+    "15": ["Flame Wheel"],
+    "5": ["Wrap"],
+    "50": ["Lunge"],
+    "40": ["Crunch"],
+    "30": ["Slam"],
+    "20": ["Bug Bite"],
+    "10": ["Bite"]
+  },
+  "tmMoves8": [
+    13,
+    21,
+    24,
+    25,
+    31,
+    34,
+    39,
+    74,
+    76,
+    97
+  ],
+  "tmMoves": [
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sunny Day",
+    "Facade",
+    "Venoshock",
+    "Round",
+    "Brutal Swing",
+    "Leech Life",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Scald"
+  ],
+  "tutorMoves": [
+    "Scorching Sands",
+    "Skitter Smack"
+  ],
+  "catchRate": 190,
+  "spawnLevel": 5,
+  "abilities": [
+    "FlashFire",
+    "WhiteSmoke",
+    "FlameBody"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Knock Off",
+    "Rollout",
+    "Struggle Bug"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 45,
+    "HP": 50,
+    "SpecialDefence": 50,
+    "Attack": 65,
+    "SpecialAttack": 50,
+    "Defence": 45
+  },
+  "spawnLocations": ["Land"],
+  "evYields": {"Attack": 1},
+  "evolutions": [{
+    "level": 28,
+    "to": {"name": "Centiskorch"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumFast",
+  "height": 0.6,
+  "baseExp": 61,
+  "types": [
+    "Fire",
+    "Bug"
+  ],
+  "pixelmonName": "Sizzlipede",
+  "pokemon": "Sizzlipede",
+  "eggGroups": ["Bug"],
+  "preEvolutions": [],
+  "length": 0.4,
+  "trMoves": [
+    18,
+    20,
+    26,
+    27,
+    32,
+    36,
+    61,
+    72,
+    84,
+    88
+  ],
+  "weight": 1,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "form": 0,
+  "baseFriendship": 50,
+  "spawnLevelRange": 16,
+  "width": 0.4,
+  "canFly": false
+}

@@ -1,0 +1,72 @@
+{
+  "canSurf": false,
+  "hoverHeight": 1,
+  "levelUpMoves": {"0": ["Take Down"]},
+  "tmMoves8": [],
+  "tmMoves": [
+    "Take Down",
+    "Headbutt"
+  ],
+  "tutorMoves": [
+    "Iron Defense",
+    "Iron Head",
+    "Zen Headbutt",
+    "Hold Back"
+  ],
+  "catchRate": 3,
+  "spawnLevel": 5,
+  "abilities": [
+    "ClearBody",
+    null,
+    "LightMetal"
+  ],
+  "eggMoves": [],
+  "isRideable": false,
+  "malePercent": -1,
+  "stats": {
+    "Speed": 30,
+    "HP": 40,
+    "SpecialDefence": 60,
+    "Attack": 55,
+    "SpecialAttack": 35,
+    "Defence": 80
+  },
+  "eggCycles": 41,
+  "spawnLocations": ["Land"],
+  "evYields": {"Defence": 1},
+  "evolutions": [{
+    "level": 20,
+    "moves": [
+      "Metal Claw",
+      "Confusion"
+    ],
+    "to": {"name": "Metang"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "Slow",
+  "height": 0.6,
+  "baseExp": 103,
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "pixelmonName": "Beldum",
+  "pokemon": "Beldum",
+  "eggGroups": ["Mineral"],
+  "preEvolutions": [],
+  "length": 0.6,
+  "trMoves": [],
+  "weight": 95.2,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 35,
+  "form": 0,
+  "spawnLevelRange": 15,
+  "width": 0.3,
+  "canFly": false,
+  "forms": {}
+}

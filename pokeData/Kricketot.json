@@ -1,0 +1,76 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Bide"
+    ],
+    "16": ["Bug Bite"],
+    "6": ["Struggle Bug"]
+  },
+  "tmMoves8": [24],
+  "tmMoves": [
+    "Bide",
+    "Snore",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Captivate"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Endeavor",
+    "Snore",
+    "Uproar",
+    "String Shot"
+  ],
+  "catchRate": 255,
+  "spawnLevel": 5,
+  "abilities": [
+    "ShedSkin",
+    null,
+    "RunAway"
+  ],
+  "eggMoves": [],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 25,
+    "HP": 37,
+    "SpecialDefence": 41,
+    "Attack": 25,
+    "SpecialAttack": 25,
+    "Defence": 41
+  },
+  "eggCycles": 16,
+  "spawnLocations": ["Land"],
+  "evYields": {"Defence": 1},
+  "evolutions": [{
+    "level": 10,
+    "moves": ["Fury Cutter"],
+    "to": {"name": "Kricketune"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumSlow",
+  "height": 0.3,
+  "baseExp": 54,
+  "types": ["Bug"],
+  "pixelmonName": "Kricketot",
+  "pokemon": "Kricketot",
+  "eggGroups": ["Bug"],
+  "preEvolutions": [],
+  "length": 0.7,
+  "trMoves": [27],
+  "weight": 2.2,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": 0,
+  "spawnLevelRange": 5,
+  "width": 0.7,
+  "canFly": false,
+  "forms": {}
+}

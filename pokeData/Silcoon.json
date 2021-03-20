@@ -1,0 +1,64 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {"0": ["Harden"]},
+  "tmMoves8": [24],
+  "tmMoves": ["Snore"],
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "Iron Defense",
+    "String Shot",
+    "Harden",
+    "Tackle"
+  ],
+  "catchRate": 120,
+  "spawnLevel": 6,
+  "abilities": [
+    "ShedSkin",
+    null,
+    null
+  ],
+  "eggMoves": [],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 15,
+    "HP": 50,
+    "SpecialDefence": 25,
+    "Attack": 35,
+    "SpecialAttack": 25,
+    "Defence": 55
+  },
+  "eggCycles": 16,
+  "spawnLocations": ["Land"],
+  "evYields": {"Defence": 2},
+  "evolutions": [{
+    "level": 10,
+    "moves": ["Gust"],
+    "to": {"name": "Beautifly"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumFast",
+  "height": 0.6,
+  "baseExp": 72,
+  "types": ["Bug"],
+  "pixelmonName": "Silcoon",
+  "pokemon": "Silcoon",
+  "eggGroups": ["Bug"],
+  "preEvolutions": ["Wurmple"],
+  "length": 0.7,
+  "trMoves": [],
+  "weight": 10,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": 0,
+  "spawnLevelRange": 5,
+  "width": 0.7,
+  "canFly": false,
+  "forms": {}
+}

@@ -1,0 +1,151 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "55": ["Double Hit"],
+    "45": ["Metal Sound"],
+    "35": ["X-Scissor"],
+    "25": ["Crush Claw"],
+    "15": ["Imprison"],
+    "0": ["Tackle"],
+    "5": ["Rage"],
+    "80": ["Double-Edge"],
+    "70": ["Razor Wind"],
+    "60": ["Air Slash"],
+    "50": ["Iron Head"],
+    "40": ["Take Down"],
+    "30": ["Scary Face"],
+    "85": ["Heal Block"],
+    "20": ["Aerial Ace"],
+    "75": ["Tri Attack"],
+    "10": ["Pursuit"],
+    "65": ["Punishment"]
+  },
+  "tmMoves8": [
+    35,
+    34,
+    25,
+    33,
+    32,
+    39,
+    21,
+    76,
+    65,
+    57,
+    9,
+    14,
+    22,
+    56
+  ],
+  "tmMoves": [
+    "Work Up",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Round",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Thunder Wave",
+    "Swords Dance",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Signal Beam",
+    "Iron Head",
+    "Magic Coat",
+    "Iron Defense",
+    "Last Resort",
+    "Icy Wind",
+    "Snore"
+  ],
+  "catchRate": 3,
+  "spawnLevel": 50,
+  "abilities": [
+    "BattleArmour",
+    null,
+    null
+  ],
+  "eggMoves": [],
+  "isRideable": true,
+  "malePercent": -1,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": -0.95,
+      "z": -0.11
+    },
+    "moving": {
+      "x": 0,
+      "y": -0.95,
+      "z": -0.11
+    }
+  },
+  "stats": {
+    "Speed": 59,
+    "HP": 95,
+    "SpecialDefence": 95,
+    "Attack": 95,
+    "SpecialAttack": 95,
+    "Defence": 95
+  },
+  "eggCycles": 120,
+  "spawnLocations": [],
+  "evYields": {"HP": 2},
+  "evolutions": [{
+    "moves": ["Multi-Attack"],
+    "to": {"name": "Silvally"},
+    "conditions": [{
+      "friendship": 220,
+      "evoConditionType": "friendship"
+    }],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "Slow",
+  "height": 1.4,
+  "baseExp": 107,
+  "types": ["Normal"],
+  "pixelmonName": "TypeNull",
+  "pokemon": "TypeNull",
+  "eggGroups": ["Undiscovered"],
+  "preEvolutions": [],
+  "length": 1.5,
+  "trMoves": [
+    85,
+    47,
+    0,
+    60,
+    27,
+    20
+  ],
+  "weight": 120.5,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": 0,
+  "spawnLevelRange": 0,
+  "width": 1.5,
+  "canFly": false,
+  "forms": {}
+}

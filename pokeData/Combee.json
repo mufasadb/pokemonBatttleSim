@@ -1,0 +1,101 @@
+{
+  "canSurf": false,
+  "hoverHeight": 1,
+  "levelUpMoves": {"1": [
+    "Sweet Scent",
+    "Gust",
+    "Struggle Bug",
+    "Bug Bite"
+  ]},
+  "tmMoves8": [
+    24,
+    40
+  ],
+  "tmMoves": [
+    "Swift",
+    "Sweet Scent",
+    "Snore",
+    "Mud-Slap",
+    "Sleep Talk"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Endeavor",
+    "Ominous Wind",
+    "String Shot",
+    "Tailwind",
+    "Gust"
+  ],
+  "catchRate": 120,
+  "spawnLevel": 6,
+  "abilities": [
+    "HoneyGather",
+    null,
+    "Hustle"
+  ],
+  "eggMoves": [],
+  "isRideable": false,
+  "malePercent": 87,
+  "stats": {
+    "Speed": 70,
+    "HP": 30,
+    "SpecialDefence": 42,
+    "Attack": 30,
+    "SpecialAttack": 30,
+    "Defence": 42
+  },
+  "eggCycles": 16,
+  "flyingParameters": {
+    "landingMaterials": "LEAVES_AND_GRASS",
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateY": 100,
+    "flyHeightMin": 0,
+    "flightTimeMin": 0,
+    "flyHeightMax": 5,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateSpeed": 100
+  },
+  "spawnLocations": ["Air"],
+  "evYields": {"Speed": 1},
+  "evolutions": [{
+    "level": 21,
+    "moves": ["Slash"],
+    "to": {"name": "Vespiquen"},
+    "conditions": [{
+      "genders": ["Female"],
+      "evoConditionType": "gender"
+    }],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumSlow",
+  "height": 0.3,
+  "baseExp": 63,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "pixelmonName": "Combee",
+  "pokemon": "Combee",
+  "eggGroups": ["Bug"],
+  "preEvolutions": [],
+  "length": 0.7,
+  "trMoves": [
+    61,
+    27
+  ],
+  "weight": 5.5,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": 0,
+  "spawnLevelRange": 10,
+  "width": 0.7,
+  "canFly": true,
+  "forms": {}
+}

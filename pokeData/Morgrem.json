@@ -1,0 +1,142 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "0": [
+      "False Surrender",
+      "Fake Out",
+      "Confide",
+      "Bite",
+      "Flatter"
+    ],
+    "12": ["Fake Tears"],
+    "24": ["Sucker Punch"],
+    "35": ["Dark Pulse"],
+    "46": ["Play Rough"],
+    "16": ["Assurance"],
+    "28": ["Torment"],
+    "40": ["Nasty Plot"],
+    "52": ["Foul Play"],
+    "20": ["Swagger"]
+  },
+  "tmMoves8": [
+    0,
+    1,
+    14,
+    17,
+    18,
+    21,
+    23,
+    24,
+    25,
+    31,
+    39,
+    42,
+    47,
+    58,
+    63,
+    65,
+    76,
+    79,
+    87
+  ],
+  "tmMoves": [
+    "Mega Punch",
+    "Mega Kick",
+    "Thunder Wave",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Facade",
+    "Drain Punch",
+    "Shadow Claw",
+    "Round",
+    "Retaliate",
+    "Metronome",
+    "Leech Life",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Taunt",
+    "Dark Pulse",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "Burning Jealousy",
+    "Lash out"
+  ],
+  "catchRate": 120,
+  "spawnLevel": 34,
+  "abilities": [
+    "Prankster",
+    "Frisk",
+    "Pickpocket"
+  ],
+  "eggMoves": [],
+  "isRideable": false,
+  "malePercent": 100,
+  "stats": {
+    "Speed": 70,
+    "HP": 65,
+    "SpecialDefence": 55,
+    "Attack": 60,
+    "SpecialAttack": 75,
+    "Defence": 45
+  },
+  "eggCycles": 21,
+  "spawnLocations": ["Land"],
+  "evYields": {"SpecialAttack": 2},
+  "evolutions": [{
+    "level": 42,
+    "moves": ["Spirit Break"],
+    "to": {"name": "Grimmsnarl"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumFast",
+  "height": 1,
+  "baseExp": 130,
+  "types": [
+    "Dark",
+    "Fairy"
+  ],
+  "pixelmonName": "Morgrem",
+  "pokemon": "Morgrem",
+  "eggGroups": [
+    "Fairy",
+    "Humanlike"
+  ],
+  "preEvolutions": ["Impidimp"],
+  "length": 0.9,
+  "trMoves": [
+    7,
+    14,
+    18,
+    20,
+    26,
+    27,
+    35,
+    37,
+    38,
+    58,
+    68,
+    81,
+    90,
+    92,
+    95
+  ],
+  "weight": 12.5,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "form": 0,
+  "baseFriendship": 50,
+  "spawnLevelRange": 4,
+  "width": 0.8,
+  "canFly": false
+}

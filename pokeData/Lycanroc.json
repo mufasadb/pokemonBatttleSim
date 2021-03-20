@@ -1,0 +1,267 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "12": ["Howl"],
+    "23": ["Rock Tomb"],
+    "34": ["Rock Slide"],
+    "45": ["Rock Climb"],
+    "15": ["Rock Throw"],
+    "26": ["Roar"],
+    "37": ["Scary Face"],
+    "48": ["Stone Edge"],
+    "18": ["Odor Sleuth"],
+    "29": ["Stealth Rock"],
+    "0": [
+      "Quick Guard",
+      "Quick Attack",
+      "Tackle",
+      "Leer",
+      "Sand Attack",
+      "Bite",
+      "Accelerock"
+    ],
+    "4": ["Sand Attack"],
+    "7": ["Bite"],
+    "40": ["Crunch"]
+  },
+  "tmMoves8": [
+    25,
+    43,
+    48,
+    39,
+    21,
+    31,
+    76,
+    22,
+    85
+  ],
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Rock Polish",
+    "Stone Edge",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Snarl",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Iron Head",
+    "Drill Run",
+    "Earth Power",
+    "Iron Defense",
+    "Last Resort",
+    "Zen Headbutt",
+    "Hyper Voice",
+    "Iron Tail",
+    "Snore",
+    "Endeavor",
+    "Stealth Rock",
+    "Stomping Tantrum"
+  ],
+  "catchRate": 90,
+  "spawnLevel": 25,
+  "abilities": [
+    "KeenEye",
+    "SandRush",
+    "Steadfast"
+  ],
+  "eggMoves": [
+    "Crush Claw",
+    "Fire Fang",
+    "Thunder Fang",
+    "Sucker Punch",
+    "Thrash"
+  ],
+  "isRideable": true,
+  "malePercent": 50,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": -0.4,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0,
+      "y": -0.4,
+      "z": -0.2
+    }
+  },
+  "stats": {
+    "Speed": 112,
+    "HP": 75,
+    "SpecialDefence": 65,
+    "Attack": 115,
+    "SpecialAttack": 55,
+    "Defence": 65
+  },
+  "eggCycles": 15,
+  "spawnLocations": [],
+  "evYields": {"Attack": 2},
+  "evolutions": [],
+  "experienceGroup": "MediumFast",
+  "height": 0.8,
+  "baseExp": 170,
+  "types": ["Rock"],
+  "pixelmonName": "Lycanroc",
+  "pokemon": "Lycanroc",
+  "eggGroups": ["Field"],
+  "preEvolutions": ["Rockruff"],
+  "length": 0.8,
+  "trMoves": [
+    48,
+    37,
+    75,
+    0,
+    27,
+    20
+  ],
+  "weight": 25,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": 0,
+  "spawnLevelRange": 25,
+  "width": 0.8,
+  "canFly": false,
+  "forms": {
+    "1": {
+      "abilities": [
+        "KeenEye",
+        "VitalSpirit",
+        "NoGuard"
+      ],
+      "form": 1,
+      "stats": {
+        "Speed": 82,
+        "HP": 85,
+        "SpecialDefence": 75,
+        "Attack": 115,
+        "SpecialAttack": 55,
+        "Defence": 75
+      },
+      "levelUpMoves": {
+        "12": ["Howl"],
+        "23": ["Rock Tomb"],
+        "34": ["Rock Slide"],
+        "45": ["Rock Climb"],
+        "15": ["Rock Throw"],
+        "26": ["Roar"],
+        "37": ["Scary Face"],
+        "48": ["Stone Edge"],
+        "18": ["Odor Sleuth"],
+        "29": ["Stealth Rock"],
+        "0": [
+          "Reversal",
+          "Taunt",
+          "Tackle",
+          "Leer",
+          "Sand Attack",
+          "Bite"
+        ],
+        "4": ["Sand Attack"],
+        "7": ["Bite"],
+        "40": ["Crunch"]
+      },
+      "tutorMoves": [
+        "Covet",
+        "Iron Head",
+        "Earth Power",
+        "Iron Defense",
+        "Last Resort",
+        "Zen Headbutt",
+        "Hyper Voice",
+        "Iron Tail",
+        "Snore",
+        "Endeavor",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Dual Chop",
+        "Uproar",
+        "Thunder Punch",
+        "Fire Punch",
+        "Foul Play",
+        "Focus Punch",
+        "Outrage",
+        "Throat Chop",
+        "Laser Focus"
+      ]
+    },
+    "2": {
+      "abilities": [
+        "ToughClaws",
+        null,
+        null
+      ],
+      "form": 2,
+      "stats": {
+        "Speed": 110,
+        "HP": 75,
+        "SpecialDefence": 65,
+        "Attack": 117,
+        "SpecialAttack": 55,
+        "Defence": 65
+      },
+      "levelUpMoves": {
+        "12": ["Howl"],
+        "23": ["Rock Tomb"],
+        "34": ["Rock Slide"],
+        "45": ["Rock Climb"],
+        "15": ["Rock Throw"],
+        "26": ["Roar"],
+        "37": ["Scary Face"],
+        "48": ["Stone Edge"],
+        "18": ["Odor Sleuth"],
+        "29": ["Stealth Rock"],
+        "0": [
+          "Accelerock",
+          "Counter",
+          "Tackle",
+          "Leer",
+          "Sand Attack",
+          "Bite"
+        ],
+        "4": ["Sand Attack"],
+        "7": ["Bite"],
+        "40": ["Crunch"]
+      },
+      "tutorMoves": [
+        "Covet",
+        "Iron Head",
+        "Drill Run",
+        "Earth Power",
+        "Iron Defense",
+        "Last Resort",
+        "Zen Headbutt",
+        "Hyper Voice",
+        "Iron Tail",
+        "Snore",
+        "Endeavor",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Outrage"
+      ]
+    }
+  }
+}

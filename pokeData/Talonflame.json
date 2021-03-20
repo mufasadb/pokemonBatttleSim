@@ -1,0 +1,182 @@
+{
+  "canSurf": false,
+  "hoverHeight": 1,
+  "levelUpMoves": {
+    "44": ["Acrobatics"],
+    "55": ["Tailwind"],
+    "13": ["Agility"],
+    "25": ["Roost"],
+    "16": ["Flail"],
+    "27": ["Razor Wind"],
+    "49": ["Me First"],
+    "39": ["Flame Charge"],
+    "0": [
+      "Brave Bird",
+      "Flare Blitz",
+      "Tackle",
+      "Growl",
+      "Ember",
+      "Quick Attack",
+      "Peck"
+    ],
+    "6": ["Quick Attack"],
+    "60": ["Steel Wing"],
+    "31": ["Natural Gift"],
+    "64": ["Brave Bird"],
+    "10": ["Peck"]
+  },
+  "tmMoves8": [
+    6,
+    8,
+    11,
+    21,
+    23,
+    25,
+    30,
+    31,
+    34,
+    38,
+    39,
+    56,
+    9,
+    76,
+    78,
+    24
+  ],
+  "tmMoves": [
+    "Swords Dance",
+    "Fly",
+    "Flamethrower",
+    "Hyper Beam",
+    "Solar Beam",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Taunt",
+    "Overheat",
+    "Aerial Ace",
+    "Bulk Up",
+    "Roost",
+    "U-Turn",
+    "Giga Impact",
+    "Flame Charge",
+    "Round",
+    "Acrobatics",
+    "Work Up",
+    "Confide",
+    "Hone Claws",
+    "Incinerate",
+    "Secret Power",
+    "Snatch",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Heat Wave",
+    "Snatch",
+    "Snore",
+    "Tailwind"
+  ],
+  "catchRate": 45,
+  "spawnLevel": 36,
+  "abilities": [
+    "FlameBody",
+    null,
+    "GaleWings"
+  ],
+  "eggMoves": [
+    "Quick Guard",
+    "Snatch",
+    "Tailwind"
+  ],
+  "isRideable": true,
+  "malePercent": 50,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": -1,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0,
+      "y": -0.95,
+      "z": -0.15
+    }
+  },
+  "stats": {
+    "Speed": 126,
+    "HP": 78,
+    "SpecialDefence": 69,
+    "Attack": 81,
+    "SpecialAttack": 74,
+    "Defence": 71
+  },
+  "eggCycles": 16,
+  "flyingParameters": {
+    "landingMaterials": "LEAVES_AND_GRASS",
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateY": 100,
+    "flyHeightMin": 0,
+    "flightTimeMin": 0,
+    "flyHeightMax": 20,
+    "flightTimeMax": 20,
+    "flapRate": 6,
+    "flySpeedModifier": 1,
+    "flyRefreshRateSpeed": 100
+  },
+  "spawnLocations": ["AirPersistent"],
+  "evYields": {"Speed": 3},
+  "evolutions": [],
+  "experienceGroup": "MediumSlow",
+  "height": 2.4,
+  "baseExp": 175,
+  "types": [
+    "Fire",
+    "Flying"
+  ],
+  "pixelmonName": "Talonflame",
+  "pokemon": "Talonflame",
+  "eggGroups": ["Flying"],
+  "preEvolutions": [
+    "Fletchinder",
+    "Fletchling"
+  ],
+  "length": 1.2,
+  "trMoves": [
+    0,
+    2,
+    15,
+    20,
+    27,
+    37,
+    43,
+    48,
+    85
+  ],
+  "weight": 24.5,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 0,
+  "form": 0,
+  "spawnLevelRange": 13,
+  "width": 1.2,
+  "canFly": true,
+  "forms": {}
+}

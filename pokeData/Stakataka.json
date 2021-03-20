@@ -1,0 +1,152 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "0": [
+      "Protect",
+      "Tackle"
+    ],
+    "11": ["Stealth Rock"],
+    "23": ["Rock Throw"],
+    "47": ["Rock Blast"],
+    "37": ["Iron Defense"],
+    "5": ["Rock Slide"],
+    "17": ["Bide"],
+    "19": ["Take Down"],
+    "61": ["Double-Edge"],
+    "31": ["Autotomize"],
+    "53": ["Wide Guard"],
+    "43": ["Iron Head"]
+  },
+  "tmMoves8": [
+    17,
+    18,
+    21,
+    22,
+    25,
+    32,
+    19,
+    39,
+    48,
+    9,
+    70,
+    76,
+    81,
+    97
+  ],
+  "tmMoves": [
+    "Earthquake",
+    "Toxic",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Facade",
+    "Rock Tomb",
+    "Gyro Ball",
+    "Rock Polish",
+    "Giga Impact",
+    "Flash Cannon",
+    "Trick Room",
+    "Stone Edge",
+    "Smack Down",
+    "Round",
+    "Bulldoze",
+    "Infestation",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Ally Switch",
+    "Bind",
+    "Block",
+    "Gravity",
+    "Iron Defense",
+    "Iron Head",
+    "Magic Coat",
+    "Magic Room",
+    "Magnet Rise",
+    "Recycle",
+    "Role Play",
+    "Skill Swap",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Superpower",
+    "Telekinesis",
+    "Wonder Room",
+    "Zen Headbutt"
+  ],
+  "catchRate": 30,
+  "spawnLevel": 70,
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggMoves": [],
+  "isRideable": true,
+  "malePercent": -1,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": -0.3,
+      "z": 1
+    },
+    "moving": {
+      "x": 0,
+      "y": -0.3,
+      "z": 1
+    }
+  },
+  "stats": {
+    "Speed": 13,
+    "HP": 61,
+    "SpecialDefence": 101,
+    "Attack": 131,
+    "SpecialAttack": 53,
+    "Defence": 211
+  },
+  "eggCycles": 120,
+  "spawnLocations": [],
+  "evYields": {"Defence": 3},
+  "evolutions": [],
+  "experienceGroup": "Slow",
+  "height": 5,
+  "baseExp": 257,
+  "types": [
+    "Rock",
+    "Steel"
+  ],
+  "pixelmonName": "Stakataka",
+  "pokemon": "Stakataka",
+  "eggGroups": ["Undiscovered"],
+  "preEvolutions": [],
+  "length": 5,
+  "trMoves": [
+    10,
+    20,
+    27,
+    52,
+    70,
+    75
+  ],
+  "weight": 820,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": -1,
+  "spawnLevelRange": 0,
+  "width": 5,
+  "canFly": false,
+  "forms": {}
+}

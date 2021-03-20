@@ -1,0 +1,134 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "0": [
+      "Fake Out",
+      "Confide"
+    ],
+    "33": ["Dark Pulse"],
+    "44": ["Foul Play"],
+    "12": ["Fake Tears"],
+    "24": ["Sucker Punch"],
+    "36": ["Nasty Plot"],
+    "4": ["Bite"],
+    "16": ["Assurance"],
+    "28": ["Torment"],
+    "8": ["Flatter"],
+    "40": ["Play Rough"],
+    "20": ["Swagger"]
+  },
+  "tmMoves8": [
+    0,
+    1,
+    14,
+    21,
+    23,
+    24,
+    25,
+    31,
+    39,
+    42,
+    47,
+    58,
+    63,
+    76,
+    79,
+    87
+  ],
+  "tmMoves": [
+    "Mega Punch",
+    "Mega Kick",
+    "Thunder Wave",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Facade",
+    "Drain Punch",
+    "Round",
+    "Retaliate",
+    "Metronome",
+    "Leech Life",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Taunt",
+    "Dark Pulse",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "Burning Jealousy",
+    "Lash Out"
+  ],
+  "catchRate": 255,
+  "spawnLevel": 21,
+  "abilities": [
+    "Prankster",
+    "Frisk",
+    "Pickpocket"
+  ],
+  "eggMoves": [],
+  "isRideable": false,
+  "malePercent": 100,
+  "stats": {
+    "Speed": 50,
+    "HP": 45,
+    "SpecialDefence": 40,
+    "Attack": 45,
+    "SpecialAttack": 55,
+    "Defence": 30
+  },
+  "eggCycles": 21,
+  "spawnLocations": ["Land"],
+  "evYields": {"SpecialAttack": 1},
+  "evolutions": [{
+    "level": 32,
+    "moves": ["False Surrender"],
+    "to": {"name": "Morgrem"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumFast",
+  "height": 1,
+  "baseExp": 53,
+  "types": [
+    "Dark",
+    "Fairy"
+  ],
+  "pixelmonName": "Impidimp",
+  "pokemon": "Impidimp",
+  "eggGroups": [
+    "Fairy",
+    "Humanlike"
+  ],
+  "preEvolutions": [],
+  "length": 0.9,
+  "trMoves": [
+    7,
+    14,
+    18,
+    20,
+    26,
+    27,
+    35,
+    37,
+    38,
+    58,
+    68,
+    81,
+    90,
+    92
+  ],
+  "weight": 5.5,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "form": 0,
+  "baseFriendship": 50,
+  "spawnLevelRange": 10,
+  "width": 0.8,
+  "canFly": false
+}

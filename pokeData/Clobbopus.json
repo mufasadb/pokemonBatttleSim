@@ -1,0 +1,136 @@
+{
+  "canSurf": true,
+  "levelUpMoves": {
+    "0": [
+      "Rock Smash",
+      "Leer"
+    ],
+    "45": ["Superpower"],
+    "35": ["Taunt"],
+    "25": ["Bulk Up"],
+    "15": ["Detect"],
+    "5": ["Feint"],
+    "40": ["Reversal"],
+    "30": ["Submission"],
+    "20": ["Brick Break"],
+    "10": ["Bind"]
+  },
+  "tmMoves8": [
+    0,
+    4,
+    21,
+    24,
+    25,
+    31,
+    39,
+    42,
+    43,
+    45,
+    53,
+    55,
+    57,
+    76,
+    79
+  ],
+  "tmMoves": [
+    "Mega Punch",
+    "Ice Punch",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Facade",
+    "Brick Break",
+    "Dive",
+    "Brine",
+    "Payback",
+    "Round",
+    "Retaliate",
+    "Body Slam",
+    "Waterfall",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Taunt",
+    "Bulk Up",
+    "Focus Blast",
+    "Work Up"
+  ],
+  "tutorMoves": ["Coaching"],
+  "catchRate": 180,
+  "spawnLevel": 16,
+  "abilities": [
+    "Limber",
+    null,
+    "Technician"
+  ],
+  "eggMoves": [
+    "Circle Throw",
+    "Pain Split",
+    "Power-Up Punch",
+    "Seismic Toss",
+    "Soak",
+    "Sucker Punch"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 32,
+    "HP": 50,
+    "SpecialDefence": 50,
+    "Attack": 68,
+    "SpecialAttack": 50,
+    "Defence": 60
+  },
+  "eggCycles": 26,
+  "spawnLocations": ["Water"],
+  "evYields": {"Attack": 1},
+  "evolutions": [{
+    "moves": ["Octolock"],
+    "to": {"name": "Grapploct"},
+    "conditions": [{
+      "attackIndex": 225,
+      "evoConditionType": "move"
+    }],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumSlow",
+  "height": 1,
+  "baseExp": 62,
+  "types": ["Fighting"],
+  "pixelmonName": "Clobbopus",
+  "pokemon": "Clobbopus",
+  "eggGroups": [
+    "Water1",
+    "Humanlike"
+  ],
+  "preEvolutions": [],
+  "length": 1,
+  "trMoves": [
+    1,
+    16,
+    20,
+    21,
+    26,
+    27,
+    37,
+    39,
+    45,
+    48,
+    53,
+    64,
+    85,
+    98
+  ],
+  "weight": 4,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "form": 0,
+  "baseFriendship": 50,
+  "spawnLevelRange": 29,
+  "width": 1,
+  "canFly": false
+}

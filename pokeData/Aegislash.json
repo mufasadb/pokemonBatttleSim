@@ -1,0 +1,192 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "0": ["King's Shield"],
+    "1": [
+      "King's Shield",
+      "Head Smash",
+      "Aerial Ace",
+      "Metal Sound",
+      "Slash",
+      "Night Slash",
+      "Retaliate",
+      "Iron Defense",
+      "Iron Head",
+      "Power Trick",
+      "Swords Dance",
+      "Sacred Sword",
+      "Tackle",
+      "Fury Cutter",
+      "Shadow Sneak",
+      "Autotomize"
+    ]
+  },
+  "tmMoves8": [
+    8,
+    9,
+    12,
+    16,
+    18,
+    21,
+    22,
+    24,
+    25,
+    31,
+    33,
+    34,
+    39,
+    43,
+    65,
+    69,
+    76,
+    79,
+    94,
+    95,
+    97
+  ],
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Shadow Claw",
+    "Retaliate",
+    "Giga Impact",
+    "Gyro Ball",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide",
+    "Cut",
+    "Rock Smash",
+    "Shock Wave",
+    "Snore",
+    "Brutal Swing",
+    "Endure"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Block",
+    "Iron Defense",
+    "Iron Head",
+    "Magnet Rise",
+    "Spite",
+    "Tackle",
+    "Metal Sound",
+    "Laser Focus"
+  ],
+  "catchRate": 45,
+  "spawnLevel": 50,
+  "abilities": [
+    "StanceChange",
+    null,
+    null
+  ],
+  "eggMoves": [
+    "Destiny Bond",
+    "Metal Sound",
+    "Shadow Sneak",
+    "Wide Guard"
+  ],
+  "isRideable": true,
+  "malePercent": 50,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": 0.5,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0,
+      "y": 0.5,
+      "z": -0.3
+    }
+  },
+  "stats": {
+    "Speed": 60,
+    "HP": 60,
+    "SpecialDefence": 140,
+    "Attack": 50,
+    "SpecialAttack": 50,
+    "Defence": 140
+  },
+  "eggCycles": 21,
+  "spawnLocations": ["Land"],
+  "evYields": {
+    "SpecialDefence": 1,
+    "Defence": 2
+  },
+  "evolutions": [],
+  "experienceGroup": "MediumFast",
+  "height": 1.7,
+  "baseExp": 234,
+  "types": [
+    "Steel",
+    "Ghost"
+  ],
+  "pixelmonName": "Aegislash",
+  "pokemon": "Aegislash",
+  "eggGroups": ["Mineral"],
+  "preEvolutions": [
+    "Doublade",
+    "Honedge"
+  ],
+  "length": 1.7,
+  "trMoves": [
+    0,
+    20,
+    21,
+    26,
+    27,
+    33,
+    46,
+    52,
+    53,
+    70,
+    74
+  ],
+  "weight": 53,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 0,
+  "form": 0,
+  "spawnLevelRange": 12,
+  "width": 1.7,
+  "canFly": false,
+  "forms": {"1": {
+    "form": 1,
+    "stats": {
+      "Speed": 60,
+      "HP": 60,
+      "SpecialDefence": 50,
+      "Attack": 150,
+      "SpecialAttack": 150,
+      "Defence": 50
+    },
+    "evYields": {
+      "Attack": 2,
+      "SpecialAttack": 1
+    }
+  }}
+}

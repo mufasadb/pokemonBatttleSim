@@ -1,0 +1,110 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Growl"
+    ],
+    "12": ["Guard Split"],
+    "25": ["Take Down"],
+    "36": ["Cotton Guard"],
+    "4": ["Defense Curl"],
+    "16": ["Double Kick"],
+    "28": ["Guard Swap"],
+    "8": ["Copycat"],
+    "40": ["Double-Edge"],
+    "21": ["Headbutt"],
+    "32": ["Reversal"]
+  },
+  "tmMoves8": [
+    14,
+    21,
+    24,
+    25,
+    31,
+    39,
+    57,
+    61,
+    76
+  ],
+  "tmMoves": [
+    "Agility",
+    "Attract",
+    "Electro Ball",
+    "Endure",
+    "Facade",
+    "Guard Swap",
+    "Payback",
+    "Protect",
+    "Rest",
+    "Reversal",
+    "Round",
+    "Sleep Talk",
+    "Snore",
+    "Substitute",
+    "Thunder Wave",
+    "Wild Charge"
+  ],
+  "tutorMoves": ["Grassy Glide"],
+  "catchRate": 255,
+  "spawnLevel": 18,
+  "abilities": [
+    "Fluffy",
+    "RunAway",
+    "Bulletproof"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Stomp",
+    "Swagger"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 48,
+    "HP": 42,
+    "SpecialDefence": 45,
+    "Attack": 40,
+    "SpecialAttack": 40,
+    "Defence": 55
+  },
+  "eggCycles": 16,
+  "spawnLocations": ["Land"],
+  "evYields": {"Defence": 1},
+  "evolutions": [{
+    "level": 24,
+    "to": {"name": "Dubwool"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumFast",
+  "height": 0.6,
+  "baseExp": 122,
+  "types": ["Normal"],
+  "pixelmonName": "Wooloo",
+  "pokemon": "Wooloo",
+  "eggGroups": ["Field"],
+  "preEvolutions": [],
+  "length": 0.8,
+  "trMoves": [
+    12,
+    20,
+    21,
+    26,
+    27,
+    80,
+    86
+  ],
+  "weight": 6,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 50,
+  "form": 0,
+  "spawnLevelRange": 6,
+  "width": 0.8,
+  "canFly": false,
+  "forms": {}
+}

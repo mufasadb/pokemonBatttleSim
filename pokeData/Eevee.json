@@ -1,0 +1,274 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "55": ["Last Resort"],
+    "1": [
+      "Covet",
+      "Helping Hand",
+      "Tackle",
+      "Growl",
+      "Tail Whip"
+    ],
+    "45": ["Charm"],
+    "35": ["Baton Pass"],
+    "25": ["Bite"],
+    "15": ["Baby-Doll Eyes"],
+    "5": ["Sand Attack"],
+    "50": ["Double-Edge"],
+    "40": ["Take Down"],
+    "30": ["Copycat"],
+    "20": ["Swift"],
+    "10": ["Quick Attack"]
+  },
+  "tmMoves8": [
+    2,
+    15,
+    21,
+    24,
+    25,
+    29,
+    31,
+    33,
+    34,
+    39,
+    40,
+    41,
+    46,
+    47,
+    76,
+    79,
+    18
+  ],
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Retaliate",
+    "Swagger",
+    "Substitute",
+    "Work Up",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide",
+    "Pay Day"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Baton Pass",
+    "Bite",
+    "Charm",
+    "Flail",
+    "Growth",
+    "Sing",
+    "Tickle",
+    "Wish",
+    "Yawn",
+    "Focus Energy",
+    "Tackle",
+    "Celebrate",
+    "Laser Focus",
+    "Sand Attack",
+    "Baby-Doll Eyes"
+  ],
+  "catchRate": 45,
+  "spawnLevel": 10,
+  "abilities": [
+    "RunAway",
+    "Adaptability",
+    "Anticipation"
+  ],
+  "eggMoves": [
+    "Flail",
+    "Curse",
+    "Tickle",
+    "Yawn",
+    "Detect",
+    "Double Kick",
+    "Mud-Slap",
+    "Wish",
+    "Captivate",
+    "Charm",
+    "Covet",
+    "Endure",
+    "Fake Tears",
+    "Natural Gift",
+    "Stored Power",
+    "Synchronoise"
+  ],
+  "isRideable": false,
+  "malePercent": 87,
+  "stats": {
+    "Speed": 55,
+    "HP": 55,
+    "SpecialDefence": 65,
+    "Attack": 55,
+    "SpecialAttack": 45,
+    "Defence": 50
+  },
+  "eggCycles": 36,
+  "spawnLocations": ["Land"],
+  "evYields": {"SpecialDefence": 1},
+  "evolutions": [
+    {
+      "moves": ["Fairy Wind"],
+      "to": {"name": "Sylveon"},
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        },
+        {
+          "type": "Fairy",
+          "evoConditionType": "moveType"
+        },
+        {
+          "biomes": [
+            "minecraft:mutated_plains",
+            "minecraft:mutated_forest"
+          ],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "item": {"itemID": "pixelmon:water_stone"},
+      "moves": ["Water Gun"],
+      "to": {"name": "Vaporeon"},
+      "conditions": [],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:thunder_stone"},
+      "moves": ["Thunder Shock"],
+      "to": {"name": "Jolteon"},
+      "conditions": [],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:fire_stone"},
+      "moves": ["Ember"],
+      "to": {"name": "Flareon"},
+      "conditions": [],
+      "evoType": "interact"
+    },
+    {
+      "moves": ["Confusion"],
+      "to": {"name": "Espeon"},
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        },
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "moves": ["Pursuit"],
+      "to": {"name": "Umbreon"},
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        },
+        {
+          "time": "NIGHT",
+          "evoConditionType": "time"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "moves": ["Razor Leaf"],
+      "to": {"name": "Leafeon"},
+      "conditions": [{
+        "evolutionRock": "MossyRock",
+        "maxRangeSquared": 100,
+        "evoConditionType": "evolutionRock"
+      }],
+      "evoType": "leveling"
+    },
+    {
+      "moves": ["Icy Wind"],
+      "to": {"name": "Glaceon"},
+      "conditions": [{
+        "evolutionRock": "IcyRock",
+        "maxRangeSquared": 100,
+        "evoConditionType": "evolutionRock"
+      }],
+      "evoType": "leveling"
+    }
+  ],
+  "experienceGroup": "MediumFast",
+  "height": 0.3,
+  "baseExp": 65,
+  "types": ["Normal"],
+  "pixelmonName": "Eevee",
+  "pokemon": "Eevee",
+  "eggGroups": ["Field"],
+  "preEvolutions": [],
+  "length": 1,
+  "trMoves": [
+    1,
+    13,
+    20,
+    26,
+    27,
+    29,
+    31,
+    33,
+    42,
+    82,
+    85
+  ],
+  "weight": 6.5,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "form": 0,
+  "baseFriendship": 70,
+  "spawnLevelRange": 5,
+  "width": 1,
+  "canFly": false,
+  "forms": {"111": {"pixelmonName": "GhostWolfEevee"}}
+}

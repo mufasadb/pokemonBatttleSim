@@ -1,0 +1,146 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "0": [
+      "Inferno",
+      "Ember",
+      "Smokescreen",
+      "Wrap",
+      "Bite"
+    ],
+    "67": ["Burn Up"],
+    "46": ["Crunch"],
+    "25": ["Coil"],
+    "15": ["Flame Wheel"],
+    "39": ["Fire Spin"],
+    "60": ["Lunge"],
+    "20": ["Bug Bite"],
+    "53": ["Fire Lash"],
+    "32": ["Slam"]
+  },
+  "tmMoves8": [
+    8,
+    9,
+    11,
+    13,
+    21,
+    24,
+    25,
+    31,
+    34,
+    38,
+    39,
+    66,
+    68,
+    74,
+    76,
+    92,
+    97
+  ],
+  "tmMoves": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Beam",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Venoshock",
+    "Round",
+    "Brutal Swing",
+    "Flamethrower",
+    "Fire Blast",
+    "Leech Life",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Overheat",
+    "X-Scissor",
+    "Scald"
+  ],
+  "tutorMoves": [
+    "Scorching Sands",
+    "Skitter Smack"
+  ],
+  "catchRate": 75,
+  "spawnLevel": 28,
+  "abilities": [
+    "FlashFire",
+    "WhiteSmoke",
+    "FlameBody"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Knock Off",
+    "Rollout",
+    "Struggle Bug"
+  ],
+  "isRideable": true,
+  "malePercent": 50,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": -1.3,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0,
+      "y": -1.3,
+      "z": -0.2
+    }
+  },
+  "stats": {
+    "Speed": 65,
+    "HP": 100,
+    "SpecialDefence": 90,
+    "Attack": 115,
+    "SpecialAttack": 90,
+    "Defence": 65
+  },
+  "spawnLocations": ["Land"],
+  "evYields": {"Attack": 2},
+  "evolutions": [],
+  "experienceGroup": "MediumFast",
+  "height": 1,
+  "baseExp": 184,
+  "types": [
+    "Fire",
+    "Bug"
+  ],
+  "pixelmonName": "Centiskorch",
+  "pokemon": "Centiskorch",
+  "eggGroups": ["Bug"],
+  "preEvolutions": ["Sizzlipede"],
+  "length": 1,
+  "trMoves": [
+    2,
+    15,
+    18,
+    20,
+    26,
+    27,
+    32,
+    36,
+    43,
+    55,
+    60,
+    61,
+    72,
+    84,
+    88
+  ],
+  "weight": 120,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "form": 0,
+  "baseFriendship": 50,
+  "spawnLevelRange": 16,
+  "width": 1,
+  "canFly": false
+}

@@ -1,0 +1,1299 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Aromatic Mist"
+    ],
+    "45": ["Misty Terrain"],
+    "35": ["Dazzling Gleam"],
+    "25": ["Attract"],
+    "15": ["Draining Kiss"],
+    "5": ["Sweet Kiss"],
+    "50": ["Entrainment"],
+    "40": ["Recover"],
+    "30": ["Acid Armor"],
+    "20": ["Aromatherapy"],
+    "10": ["Sweet Scent"]
+  },
+  "tmMoves8": [
+    21,
+    24,
+    25,
+    29,
+    31,
+    39,
+    41,
+    59,
+    76,
+    87,
+    89
+  ],
+  "tmMoves": [
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Facade",
+    "Fling",
+    "Round",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [],
+  "catchRate": 200,
+  "spawnLevel": 26,
+  "abilities": [
+    "SweetVeil",
+    null,
+    "AromaVeil"
+  ],
+  "eggMoves": [
+    "Baby-Doll Eyes",
+    "Last Resort"
+  ],
+  "isRideable": false,
+  "malePercent": 0,
+  "stats": {
+    "Speed": 34,
+    "HP": 45,
+    "SpecialDefence": 61,
+    "Attack": 40,
+    "SpecialAttack": 50,
+    "Defence": 40
+  },
+  "eggCycles": 21,
+  "spawnLocations": ["Land"],
+  "evYields": {"SpecialDefence": 1},
+  "evolutions": [
+    {
+      "item": {"itemID": "pixelmon:strawberry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 0,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAWN",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:birch_forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:strawberry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 1,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAWN",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:taiga"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:strawberry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 2,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAWN",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:jungle"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:strawberry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 3,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAWN",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:strawberry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 4,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAWN",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:roofed_forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:strawberry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 5,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAWN",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:taiga_cold"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:strawberry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 6,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAWN",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:extreme_hills_with_trees"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:strawberry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 7,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAWN",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:redwood_taiga"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:strawberry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 8,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAWN",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:mushroom_island"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:berry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 9,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "AFTERNOON",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:birch_forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:berry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 10,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "AFTERNOON",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:taiga"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:berry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 11,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "AFTERNOON",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:jungle"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:berry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 12,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "AFTERNOON",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:berry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 13,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "AFTERNOON",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:roofed_forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:berry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 14,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "AFTERNOON",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:taiga_cold"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:berry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 15,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "AFTERNOON",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:extreme_hills_with_trees"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:berry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 16,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "AFTERNOON",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:redwood_taiga"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:berry_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 17,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "AFTERNOON",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:mushroom_island"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:love_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 18,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:birch_forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:love_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 19,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:taiga"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:love_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 20,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:jungle"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:love_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 21,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:love_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 22,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:roofed_forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:love_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 23,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:taiga_cold"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:love_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 24,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:extreme_hills_with_trees"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:love_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 25,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:redwood_taiga"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:love_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 26,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:mushroom_island"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:star_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 27,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "NIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:birch_forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:star_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 28,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "NIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:taiga"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:star_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 29,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "NIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:jungle"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:star_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 30,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "NIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:star_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 31,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "NIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:roofed_forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:star_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 32,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "NIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:taiga_cold"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:star_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 33,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "NIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:extreme_hills_with_trees"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:star_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 34,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "NIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:redwood_taiga"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:star_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 35,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "NIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:mushroom_island"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:clover_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 36,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DUSK",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:birch_forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:clover_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 37,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DUSK",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:taiga"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:clover_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 38,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DUSK",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:jungle"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:clover_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 39,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DUSK",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:clover_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 40,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DUSK",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:roofed_forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:clover_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 41,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DUSK",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:taiga_cold"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:clover_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 42,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DUSK",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:extreme_hills_with_trees"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:clover_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 43,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DUSK",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:redwood_taiga"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:clover_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 44,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "DUSK",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:mushroom_island"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:flower_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 45,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MORNING",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:birch_forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:flower_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 46,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MORNING",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:taiga"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:flower_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 47,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MORNING",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:jungle"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:flower_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 48,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MORNING",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:flower_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 49,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MORNING",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:roofed_forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:flower_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 50,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MORNING",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:taiga_cold"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:flower_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 51,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MORNING",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:extreme_hills_with_trees"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:flower_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 52,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MORNING",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:redwood_taiga"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:flower_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 53,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MORNING",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:mushroom_island"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:ribbon_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 54,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MIDNIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:birch_forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:ribbon_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 55,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MIDNIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:taiga"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:ribbon_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 56,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MIDNIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:jungle"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:ribbon_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 57,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MIDNIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:ribbon_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 58,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MIDNIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:roofed_forest"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:ribbon_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 59,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MIDNIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:taiga_cold"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:ribbon_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 60,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MIDNIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:extreme_hills_with_trees"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:ribbon_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 61,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MIDNIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:redwood_taiga"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:ribbon_sweet"},
+      "moves": ["Decorate"],
+      "to": {
+        "form": 62,
+        "name": "Alcremie"
+      },
+      "conditions": [
+        {
+          "time": "MIDNIGHT",
+          "evoConditionType": "time"
+        },
+        {
+          "biomes": ["minecraft:mushroom_island"],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "interact"
+    }
+  ],
+  "experienceGroup": "MediumFast",
+  "height": 1,
+  "baseExp": 54,
+  "types": ["Fairy"],
+  "pixelmonName": "Milcery",
+  "pokemon": "Milcery",
+  "eggGroups": [
+    "Fairy",
+    "Amorphous"
+  ],
+  "preEvolutions": [],
+  "length": 0.9,
+  "trMoves": [
+    20,
+    26,
+    27,
+    82,
+    92
+  ],
+  "weight": 0.3,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "form": 0,
+  "baseFriendship": 50,
+  "spawnLevelRange": 2,
+  "width": 0.8,
+  "canFly": false
+}

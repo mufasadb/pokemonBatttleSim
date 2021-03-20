@@ -1,0 +1,162 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "1": [
+      "Skull Bash",
+      "Wrap",
+      "Sand Attack",
+      "Minimize",
+      "Brutal Swing"
+    ],
+    "35": ["Sandstorm"],
+    "25": ["Glare"],
+    "15": ["Bulldoze"],
+    "49": ["Coil"],
+    "51": ["Sand Tomb"],
+    "30": ["Dig"],
+    "20": ["Headbutt"],
+    "42": ["Slam"]
+  },
+  "tmMoves8": [
+    8,
+    9,
+    15,
+    16,
+    21,
+    22,
+    24,
+    25,
+    31,
+    32,
+    39,
+    48,
+    49,
+    53,
+    54,
+    68,
+    76,
+    81,
+    97
+  ],
+  "tmMoves": [
+    "Attract",
+    "Body Press",
+    "Brutal Swing",
+    "Bulldoze",
+    "Dig",
+    "Drill Run",
+    "Earth Power",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "Fire Fang",
+    "Giga Impact",
+    "High Horsepower",
+    "Hurricane",
+    "Hyper Beam",
+    "Iron Defense",
+    "Iron Head",
+    "Mud Shot",
+    "Outrage",
+    "Protect",
+    "Rest",
+    "Rock Blast",
+    "Rock Slide",
+    "Rock Tomb",
+    "Round",
+    "Sand Tomb",
+    "Sandstorm",
+    "Screech",
+    "Sleep Talk",
+    "Snore",
+    "Stealth Rock",
+    "Stone Edge",
+    "Substitute",
+    "Zen Headbutt"
+  ],
+  "tutorMoves": [
+    "Scorching Sands",
+    "Skitter Smack"
+  ],
+  "catchRate": 120,
+  "spawnLevel": 36,
+  "abilities": [
+    "SandSpit",
+    "ShedSkin",
+    "SandVeil"
+  ],
+  "eggMoves": [
+    "Belch",
+    "Dragon Rush",
+    "Last Resort",
+    "Mud-Slap",
+    "Poison Tail"
+  ],
+  "isRideable": true,
+  "malePercent": 50,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": -3.4,
+      "z": 0.6
+    },
+    "moving": {
+      "x": 0,
+      "y": -3.4,
+      "z": 0.6
+    }
+  },
+  "stats": {
+    "Speed": 71,
+    "HP": 72,
+    "SpecialDefence": 70,
+    "Attack": 107,
+    "SpecialAttack": 65,
+    "Defence": 125
+  },
+  "eggCycles": 21,
+  "spawnLocations": ["Land"],
+  "evYields": {"Defence": 2},
+  "evolutions": [],
+  "experienceGroup": "MediumFast",
+  "height": 1.2,
+  "baseExp": 179,
+  "types": ["Ground"],
+  "pixelmonName": "Sandaconda",
+  "pokemon": "Sandaconda",
+  "eggGroups": [
+    "Field",
+    "Dragon"
+  ],
+  "preEvolutions": ["Silicobra"],
+  "length": 5,
+  "trMoves": [
+    10,
+    20,
+    24,
+    26,
+    27,
+    46,
+    67,
+    69,
+    74,
+    75,
+    76,
+    87,
+    89,
+    94,
+    99
+  ],
+  "weight": 65.5,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 50,
+  "form": 0,
+  "spawnLevelRange": 14,
+  "width": 1.5,
+  "canFly": false,
+  "forms": {}
+}

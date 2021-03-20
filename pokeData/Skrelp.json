@@ -1,0 +1,150 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "12": ["Bubble"],
+    "23": ["Poison Tail"],
+    "35": ["Aqua Tail"],
+    "25": ["Water Pulse"],
+    "15": ["Acid"],
+    "38": ["Sludge Bomb"],
+    "49": ["Dragon Pulse"],
+    "28": ["Double Team"],
+    "19": ["Camouflage"],
+    "0": [
+      "Tackle",
+      "Smokescreen",
+      "Water Gun"
+    ],
+    "5": ["Feint Attack"],
+    "9": ["Tail Whip"],
+    "42": ["Hydro Pump"],
+    "32": ["Toxic"]
+  },
+  "tmMoves8": [
+    35,
+    74,
+    25,
+    33,
+    39,
+    21,
+    31,
+    76,
+    45,
+    27,
+    24
+  ],
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Venoshock",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Dragon Pulse",
+    "Icy Wind",
+    "Iron Tail",
+    "Shock Wave",
+    "Snore",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Gunk Shot",
+    "Outrage"
+  ],
+  "catchRate": 225,
+  "spawnLevel": 33,
+  "abilities": [
+    "PoisonPoint",
+    "PoisonTouch",
+    "Adaptability"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Haze",
+    "Play Rough",
+    "Toxic Spikes",
+    "Venom Drench"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 30,
+    "HP": 50,
+    "SpecialDefence": 60,
+    "Attack": 60,
+    "SpecialAttack": 60,
+    "Defence": 60
+  },
+  "eggCycles": 21,
+  "spawnLocations": ["Water"],
+  "evYields": {"SpecialDefence": 1},
+  "evolutions": [{
+    "level": 48,
+    "moves": ["Twister"],
+    "to": {"name": "Dragalge"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumFast",
+  "height": 0.5,
+  "baseExp": 64,
+  "types": [
+    "Poison",
+    "Water"
+  ],
+  "pixelmonName": "Skrelp",
+  "pokemon": "Skrelp",
+  "eggGroups": [
+    "Water1",
+    "Dragon"
+  ],
+  "preEvolutions": [],
+  "length": 0.5,
+  "trMoves": [
+    8,
+    33,
+    78,
+    22,
+    84,
+    27,
+    20,
+    4,
+    16,
+    62,
+    31
+  ],
+  "weight": 7.3,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 0,
+  "form": 0,
+  "spawnLevelRange": 14,
+  "width": 0.5,
+  "canFly": false,
+  "forms": {}
+}

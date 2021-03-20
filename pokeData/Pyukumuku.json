@@ -1,0 +1,120 @@
+{
+  "canSurf": true,
+  "levelUpMoves": {
+    "55": ["Toxic"],
+    "45": ["Recover"],
+    "35": ["Gastro Acid"],
+    "25": ["Purify"],
+    "15": ["Safeguard"],
+    "1": [
+      "Baton Pass",
+      "Harden"
+    ],
+    "5": ["Helping Hand"],
+    "60": ["Memento"],
+    "50": ["Soak"],
+    "40": ["Pain Split"],
+    "30": ["Curse"],
+    "20": ["Counter"],
+    "10": ["Taunt"]
+  },
+  "tmMoves8": [
+    16,
+    17,
+    18,
+    19,
+    21,
+    25,
+    31,
+    33,
+    35,
+    41
+  ],
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Double Team",
+    "Reflect",
+    "Rest",
+    "Attract",
+    "Quash",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide",
+    "Endure"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Pain Split",
+    "Gastro Acid",
+    "Spite",
+    "Helping Hand",
+    "Recycle"
+  ],
+  "catchRate": 60,
+  "spawnLevel": 20,
+  "abilities": [
+    "InnardsOut",
+    null,
+    "Unaware"
+  ],
+  "eggMoves": [
+    "Tickle",
+    "Spite",
+    "Mirror Coat",
+    "Swagger",
+    "Endure",
+    "Venom Drench",
+    "Bestow"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 5,
+    "HP": 55,
+    "SpecialDefence": 130,
+    "Attack": 60,
+    "SpecialAttack": 30,
+    "Defence": 130
+  },
+  "eggCycles": 15,
+  "spawnLocations": [],
+  "evYields": {"SpecialDefence": 2},
+  "evolutions": [],
+  "experienceGroup": "Fast",
+  "height": 0.3,
+  "baseExp": 144,
+  "types": ["Water"],
+  "pixelmonName": "Pyukumuku",
+  "pokemon": "Pyukumuku",
+  "eggGroups": ["Water1"],
+  "preEvolutions": [],
+  "length": 0.7,
+  "trMoves": [
+    20,
+    26,
+    27,
+    29,
+    37,
+    91
+  ],
+  "weight": 1.2,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": -1,
+  "spawnLevelRange": 40,
+  "width": 0.7,
+  "canFly": false,
+  "forms": {}
+}

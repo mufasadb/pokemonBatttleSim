@@ -1,0 +1,294 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "44": ["Dark Pulse"],
+    "12": ["Disable"],
+    "24": ["Hex"],
+    "36": ["Curse"],
+    "48": [
+      "Power Split",
+      "Guard Split"
+    ],
+    "16": ["Will-O-Wisp"],
+    "28": ["Mean Look"],
+    "1": [
+      "Astonish",
+      "Protect"
+    ],
+    "4": ["Haze"],
+    "8": ["Night Shade"],
+    "40": ["Shadow Ball"],
+    "52": ["Destiny Bond"],
+    "20": ["Crafty Shield"],
+    "32": ["Grudge"]
+  },
+  "tmMoves8": [
+    19,
+    21,
+    23,
+    24,
+    25,
+    31,
+    33,
+    38,
+    39,
+    44,
+    47,
+    57,
+    70,
+    71,
+    76,
+    77
+  ],
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Will-O-Wisp",
+    "Embargo",
+    "Payback",
+    "Flash",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Ally Switch",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Nightmare",
+    "Skill Swap",
+    "Snatch",
+    "Dark Pulse",
+    "Infestation",
+    "Secret Power",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Block",
+    "Iron Defense",
+    "Knock Off",
+    "Magic Coat",
+    "Ominous Wind",
+    "Pain Split",
+    "Role Play",
+    "Spite",
+    "Trick",
+    "Wonder Room",
+    "Haze",
+    "Nasty Plot",
+    "Night Shade",
+    "Zen Headbutt",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "catchRate": 190,
+  "spawnLevel": 5,
+  "abilities": [
+    "Mummy",
+    null,
+    null
+  ],
+  "eggMoves": [
+    "Memento",
+    "Ally Switch",
+    "Disable",
+    "Endure",
+    "Fake Tears",
+    "Heal Block",
+    "Imprison",
+    "Nasty Plot",
+    "Nightmare",
+    "Toxic Spikes",
+    "Crafty Shield"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 30,
+    "HP": 38,
+    "SpecialDefence": 65,
+    "Attack": 30,
+    "SpecialAttack": 55,
+    "Defence": 85
+  },
+  "eggCycles": 26,
+  "spawnLocations": ["Land"],
+  "evYields": {"Defence": 1},
+  "evolutions": [{
+    "level": 34,
+    "moves": ["Scary Face"],
+    "to": {"name": "Cofagrigus"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumFast",
+  "height": 0.6,
+  "baseExp": 61,
+  "types": ["Ghost"],
+  "pixelmonName": "Yamask",
+  "pokemon": "Yamask",
+  "eggGroups": [
+    "Mineral",
+    "Amorphous"
+  ],
+  "preEvolutions": [],
+  "length": 0.5,
+  "trMoves": [
+    11,
+    20,
+    26,
+    27,
+    33,
+    38,
+    40,
+    46,
+    49,
+    54,
+    58,
+    65,
+    68,
+    69,
+    83
+  ],
+  "weight": 1.5,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "form": 0,
+  "baseFriendship": 70,
+  "spawnLevelRange": 25,
+  "width": 0.6,
+  "canFly": false,
+  "forms": {"2": {
+    "spawnLevel": 29,
+    "abilities": [
+      "Wandering Spirit",
+      null,
+      null
+    ],
+    "eggMoves": ["Memento"],
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
+    "form": 1,
+    "stats": {
+      "Speed": 30,
+      "HP": 38,
+      "SpecialDefence": 65,
+      "Attack": 55,
+      "SpecialAttack": 30,
+      "Defence": 85
+    },
+    "spawnLevelRange": 6,
+    "levelUpMoves": {
+      "44": ["Earthquake"],
+      "12": ["Disable"],
+      "24": ["Hex"],
+      "36": ["Curse"],
+      "48": [
+        "Guard Split",
+        "Power Split"
+      ],
+      "16": ["Brutal Swing"],
+      "28": ["Mean Look"],
+      "0": [
+        "Astonish",
+        "Protect"
+      ],
+      "4": ["Haze"],
+      "8": ["Night Shade"],
+      "40": ["Shadow Ball"],
+      "52": ["Destiny Bond"],
+      "20": ["Crafty Shield"],
+      "32": ["Slam"]
+    },
+    "tmMoves8": [
+      19,
+      21,
+      22,
+      23,
+      24,
+      25,
+      31,
+      32,
+      33,
+      38,
+      39,
+      44,
+      47,
+      48,
+      57,
+      70,
+      71,
+      76,
+      77,
+      97
+    ],
+    "trMoves": [
+      10,
+      11,
+      20,
+      26,
+      27,
+      33,
+      38,
+      40,
+      46,
+      49,
+      54,
+      58,
+      65,
+      67,
+      68,
+      69,
+      83
+    ],
+    "evolutions": [{
+      "moves": ["Shadow Claw"],
+      "to": {"name": "Runerigus"},
+      "conditions": [
+        {
+          "health": 49,
+          "evoConditionType": "healthAbsence"
+        },
+        {
+          "structure": "Temple",
+          "evoConditionType": "withinStructure"
+        },
+        {
+          "biomes": [
+            "minecraft:desert",
+            "minecraft:desert_hills",
+            "minecraft:mutated_desert"
+          ],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "ticking"
+    }],
+    "tutorMoves": []
+  }}
+}

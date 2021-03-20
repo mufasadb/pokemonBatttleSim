@@ -1,0 +1,144 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "1": [
+      "Astonish",
+      "Withdraw"
+    ],
+    "12": ["Mega Drain"],
+    "24": ["Sucker Punch"],
+    "36": ["Giga Drain"],
+    "48": ["Shadow Ball"],
+    "6": ["Aromatic Mist"],
+    "18": ["Protect"],
+    "60": ["Shell Smash"],
+    "30": ["Aromatherapy"],
+    "42": ["Nasty Plot"],
+    "54": ["Memento"]
+  },
+  "tmMoves8": [
+    21,
+    24,
+    25,
+    28,
+    38,
+    39,
+    44,
+    57,
+    71,
+    76,
+    77,
+    86
+  ],
+  "tmMoves": [
+    "Ally Switch",
+    "Baton Pass",
+    "Dark Pulse",
+    "Endure",
+    "Facade",
+    "Foul Play",
+    "Giga Drain",
+    "Hex",
+    "Imprison",
+    "Metronome",
+    "Nasty Plot",
+    "Payback",
+    "Phantom Force",
+    "Protect",
+    "Psychic",
+    "Psyshock",
+    "Rest",
+    "Round",
+    "Shadow Ball",
+    "Sleep Talk",
+    "Snore",
+    "Stored Power",
+    "Substitute",
+    "Trick",
+    "Will-O-Wisp",
+    "Wonder Room"
+  ],
+  "tutorMoves": [],
+  "catchRate": 120,
+  "spawnLevel": 34,
+  "abilities": [
+    "WeakArmor",
+    null,
+    "CursedBody"
+  ],
+  "eggMoves": [],
+  "isRideable": false,
+  "malePercent": -1,
+  "stats": {
+    "Speed": 50,
+    "HP": 40,
+    "SpecialDefence": 54,
+    "Attack": 45,
+    "SpecialAttack": 74,
+    "Defence": 45
+  },
+  "eggCycles": 21,
+  "spawnLocations": ["Land"],
+  "evYields": {"SpecialAttack": 1},
+  "evolutions": [{
+    "item": {"itemID": "pixelmon:cracked_pot"},
+    "to": {
+      "form": 0,
+      "name": "Polteageist"
+    },
+    "conditions": [],
+    "evoType": "interact"
+  }],
+  "experienceGroup": "MediumFast",
+  "height": 0.2,
+  "baseExp": 62,
+  "types": ["Ghost"],
+  "pixelmonName": "Sinistea",
+  "pokemon": "Sinistea",
+  "eggGroups": [
+    "Mineral",
+    "Amorphous"
+  ],
+  "preEvolutions": [],
+  "length": 0.6,
+  "trMoves": [
+    11,
+    14,
+    20,
+    25,
+    26,
+    27,
+    29,
+    33,
+    38,
+    58,
+    68,
+    81,
+    82,
+    83
+  ],
+  "weight": 0.2,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 50,
+  "form": 0,
+  "spawnLevelRange": 6,
+  "width": 0.6,
+  "canFly": false,
+  "forms": {"1": {
+    "form": 1,
+    "evolutions": [{
+      "item": {"itemID": "pixelmon:chipped_pot"},
+      "moves": ["Teatime"],
+      "to": {
+        "form": 1,
+        "name": "Polteageist"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }]
+  }}
+}

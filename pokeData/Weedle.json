@@ -1,0 +1,70 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "0": [
+      "Poison Sting",
+      "String Shot"
+    ],
+    "9": ["Bug Bite"]
+  },
+  "tmMoves8": [],
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "String Shot"
+  ],
+  "catchRate": 255,
+  "spawnLevel": 2,
+  "abilities": [
+    "ShieldDust",
+    null,
+    "RunAway"
+  ],
+  "eggMoves": [],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 50,
+    "HP": 40,
+    "SpecialDefence": 20,
+    "Attack": 35,
+    "SpecialAttack": 20,
+    "Defence": 30
+  },
+  "eggCycles": 11,
+  "spawnLocations": ["Land"],
+  "evYields": {"Speed": 1},
+  "evolutions": [{
+    "level": 7,
+    "moves": ["Harden"],
+    "to": {"name": "Kakuna"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumFast",
+  "height": 0.2,
+  "baseExp": 39,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "pixelmonName": "Weedle",
+  "pokemon": "Weedle",
+  "eggGroups": ["Bug"],
+  "preEvolutions": [],
+  "length": 0.8,
+  "trMoves": [],
+  "weight": 3.2,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": 0,
+  "spawnLevelRange": 5,
+  "width": 0.35,
+  "canFly": false,
+  "forms": {}
+}

@@ -1,0 +1,137 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "1": [
+      "Pound",
+      "Growl"
+    ],
+    "12": ["Water Pulse"],
+    "24": ["U-turn"],
+    "36": ["Rain Dance"],
+    "6": ["Water Gun"],
+    "17": ["Tearful Look"],
+    "28": ["Liquidation"],
+    "8": ["Bind"],
+    "20": ["Sucker Punch"],
+    "32": ["Soak"]
+  },
+  "tmMoves8": [
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    31,
+    33,
+    36,
+    39,
+    40,
+    45,
+    46,
+    52,
+    53,
+    56,
+    76
+  ],
+  "tmMoves": [
+    "Attract",
+    "Baton Pass",
+    "Bounce",
+    "Dive",
+    "Endure",
+    "Facade",
+    "Light Screen",
+    "Liquidation",
+    "Mud Shot",
+    "Muddy Water",
+    "Protect",
+    "Rain Dance",
+    "Reflect",
+    "Rest",
+    "Round",
+    "Safeguard",
+    "Sleep Talk",
+    "Snore",
+    "Substitute",
+    "Surf",
+    "Swift",
+    "U-Turn",
+    "Weather Ball",
+    "Whirlpool",
+    "Work Up"
+  ],
+  "tutorMoves": ["Water Pledge"],
+  "catchRate": 45,
+  "spawnLevel": 10,
+  "abilities": [
+    "Torrent",
+    null,
+    "Sniper"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Aqua Ring",
+    "Double Team",
+    "Fell Stinger",
+    "Haze",
+    "Ice Shard",
+    "Mist"
+  ],
+  "isRideable": false,
+  "malePercent": 87,
+  "stats": {
+    "Speed": 70,
+    "HP": 50,
+    "SpecialDefence": 40,
+    "Attack": 40,
+    "SpecialAttack": 70,
+    "Defence": 40
+  },
+  "eggCycles": 21,
+  "spawnLocations": ["Land"],
+  "evYields": {
+    "Speed": 1,
+    "SpecialDefence": 1
+  },
+  "evolutions": [{
+    "level": 16,
+    "to": {"name": "Drizzile"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumSlow",
+  "height": 0.3,
+  "baseExp": 62,
+  "types": ["Water"],
+  "pixelmonName": "Sobble",
+  "pokemon": "Sobble",
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "preEvolutions": [],
+  "length": 0.4,
+  "trMoves": [
+    4,
+    20,
+    26,
+    27,
+    29,
+    45,
+    85,
+    98
+  ],
+  "weight": 4,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 50,
+  "form": 0,
+  "spawnLevelRange": 6,
+  "width": 0.4,
+  "canFly": false,
+  "forms": {}
+}

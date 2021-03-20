@@ -1,0 +1,150 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "34": ["Flame Charge"],
+    "45": ["Tailwind"],
+    "13": ["Agility"],
+    "25": ["Razor Wind"],
+    "48": ["Steel Wing"],
+    "16": ["Flail"],
+    "39": ["Acrobatics"],
+    "29": ["Natural Gift"],
+    "0": [
+      "Tackle",
+      "Growl"
+    ],
+    "6": ["Quick Attack"],
+    "41": ["Me First"],
+    "10": ["Peck"],
+    "21": ["Roost"]
+  },
+  "tmMoves8": [
+    34,
+    25,
+    39,
+    21,
+    31,
+    23,
+    76,
+    30,
+    78,
+    56,
+    6,
+    24
+  ],
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Steel Wing",
+    "Acrobatics",
+    "Swords Dance",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Secret Power",
+    "Confide",
+    "Fly",
+    "Snatch",
+    "Snore",
+    "Work Up"
+  ],
+  "tutorMoves": [
+    "Heat Wave",
+    "Tailwind",
+    "Defog",
+    "Snore",
+    "Snatch"
+  ],
+  "catchRate": 255,
+  "spawnLevel": 5,
+  "abilities": [
+    "BigPecks",
+    null,
+    "GaleWings"
+  ],
+  "eggMoves": [
+    "Quick Guard",
+    "Snatch",
+    "Tailwind"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 62,
+    "HP": 45,
+    "SpecialDefence": 38,
+    "Attack": 50,
+    "SpecialAttack": 40,
+    "Defence": 43
+  },
+  "eggCycles": 16,
+  "flyingParameters": {
+    "landingMaterials": "LEAVES_AND_GRASS",
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateY": 100,
+    "flyHeightMin": 0,
+    "flightTimeMin": 0,
+    "flyHeightMax": 10,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateSpeed": 100
+  },
+  "spawnLocations": ["Air"],
+  "evYields": {"Speed": 1},
+  "evolutions": [{
+    "level": 17,
+    "moves": ["Ember"],
+    "to": {"name": "Fletchinder"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumSlow",
+  "height": 0.3,
+  "baseExp": 56,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "pixelmonName": "Fletchling",
+  "pokemon": "Fletchling",
+  "eggGroups": ["Flying"],
+  "preEvolutions": [],
+  "length": 0.3,
+  "trMoves": [
+    37,
+    43,
+    0,
+    27,
+    20,
+    85
+  ],
+  "weight": 1.7,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 0,
+  "form": 0,
+  "spawnLevelRange": 11,
+  "width": 0.3,
+  "canFly": true,
+  "forms": {}
+}

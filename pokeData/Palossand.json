@@ -1,0 +1,160 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "23": ["Bulldoze"],
+    "14": ["Sand Tomb"],
+    "36": ["Giga Drain"],
+    "47": ["Earth Power"],
+    "27": ["Hypnosis"],
+    "18": ["Mega Drain"],
+    "0": [
+      "Harden",
+      "Absorb",
+      "Astonish",
+      "Sand Attack"
+    ],
+    "5": ["Astonish"],
+    "9": ["Sand Attack"],
+    "60": ["Sandstorm"],
+    "41": ["Shadow Ball"],
+    "32": ["Iron Defense"],
+    "54": ["Shore Up"]
+  },
+  "tmMoves8": [
+    25,
+    32,
+    48,
+    39,
+    21,
+    31,
+    76,
+    59,
+    9,
+    81,
+    22
+  ],
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Quash",
+    "Embargo",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Earth Power",
+    "Gravity",
+    "Iron Defense",
+    "Snore",
+    "Role Play",
+    "Pain Split",
+    "Giga Drain",
+    "Spite",
+    "After You",
+    "Trick",
+    "Recycle",
+    "Stealth Rock",
+    "Skill Swap"
+  ],
+  "catchRate": 60,
+  "spawnLevel": 42,
+  "abilities": [
+    "WaterCompaction",
+    null,
+    "SandVeil"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Destiny Bond",
+    "Ancient Power",
+    "Stockpile",
+    "Swallow",
+    "Spit Up",
+    "Curse"
+  ],
+  "isRideable": true,
+  "malePercent": 50,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": -1.15,
+      "z": -0.47
+    },
+    "moving": {
+      "x": 0,
+      "y": -1.15,
+      "z": -0.47
+    }
+  },
+  "stats": {
+    "Speed": 35,
+    "HP": 85,
+    "SpecialDefence": 75,
+    "Attack": 75,
+    "SpecialAttack": 100,
+    "Defence": 110
+  },
+  "eggCycles": 15,
+  "spawnLocations": [],
+  "evYields": {"Defence": 2},
+  "evolutions": [],
+  "experienceGroup": "MediumFast",
+  "height": 1.3,
+  "baseExp": 168,
+  "types": [
+    "Ghost",
+    "Ground"
+  ],
+  "pixelmonName": "Palossand",
+  "pokemon": "Palossand",
+  "eggGroups": ["Amorphous"],
+  "preEvolutions": ["Sandygast"],
+  "length": 1.3,
+  "trMoves": [
+    10,
+    11,
+    33,
+    22,
+    65,
+    75,
+    27,
+    20
+  ],
+  "weight": 250,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": -1,
+  "spawnLevelRange": 20,
+  "width": 1.3,
+  "canFly": false,
+  "forms": {}
+}

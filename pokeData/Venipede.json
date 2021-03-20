@@ -1,0 +1,143 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "22": ["Bug Bite"],
+    "33": ["Steamroller"],
+    "12": ["Pursuit"],
+    "36": ["Toxic"],
+    "15": ["Protect"],
+    "26": ["Venoshock"],
+    "38": ["Venom Drench"],
+    "29": ["Agility"],
+    "19": ["Poison Tail"],
+    "0": [
+      "Defense Curl",
+      "Rollout"
+    ],
+    "5": ["Poison Sting"],
+    "8": ["Screech"],
+    "40": ["Rock Climb"],
+    "43": ["Double-Edge"]
+  },
+  "tmMoves8": [
+    74,
+    34,
+    25,
+    11,
+    39,
+    21,
+    31,
+    76,
+    57,
+    24
+  ],
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Payback",
+    "Gyro Ball",
+    "Struggle Bug",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Rock Climb",
+    "Take Down",
+    "Double-Edge",
+    "Rollout",
+    "Snore",
+    "Sleep Talk",
+    "Defense Curl",
+    "Infestation",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Endeavor",
+    "Iron Defense",
+    "Signal Beam",
+    "Agility",
+    "Pursuit",
+    "Screech",
+    "Signal Beam"
+  ],
+  "catchRate": 255,
+  "spawnLevel": 5,
+  "abilities": [
+    "PoisonPoint",
+    "Swarm",
+    "SpeedBoost"
+  ],
+  "eggMoves": [
+    "Pin Missile",
+    "Rock Climb",
+    "Spikes",
+    "Take Down",
+    "Toxic Spikes",
+    "Twineedle"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 57,
+    "HP": 30,
+    "SpecialDefence": 39,
+    "Attack": 45,
+    "SpecialAttack": 30,
+    "Defence": 59
+  },
+  "eggCycles": 16,
+  "spawnLocations": ["Land"],
+  "evYields": {"Defence": 1},
+  "evolutions": [{
+    "level": 22,
+    "moves": ["Iron Defense"],
+    "to": {"name": "Whirlipede"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumSlow",
+  "height": 0.4,
+  "baseExp": 52,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "pixelmonName": "Venipede",
+  "pokemon": "Venipede",
+  "eggGroups": ["Bug"],
+  "preEvolutions": [],
+  "length": 0.4,
+  "trMoves": [
+    22,
+    52,
+    57,
+    20,
+    27
+  ],
+  "weight": 5.3,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": 0,
+  "spawnLevelRange": 16,
+  "width": 0.4,
+  "canFly": false,
+  "forms": {}
+}

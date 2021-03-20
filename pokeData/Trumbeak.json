@@ -1,0 +1,151 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "45": ["Hyper Voice"],
+    "13": ["Supersonic"],
+    "24": ["Fury Attack"],
+    "37": ["Bullet Seed"],
+    "16": ["Pluck"],
+    "29": ["Screech"],
+    "0": [
+      "Rock Blast",
+      "Peck",
+      "Growl",
+      "Echoed Voice",
+      "Rock Smash"
+    ],
+    "3": ["Growl"],
+    "7": ["Echoed Voice"],
+    "9": ["Rock Smash"],
+    "40": ["Feather Dance"],
+    "21": ["Roost"],
+    "32": ["Drill Peck"]
+  },
+  "tmMoves8": [
+    6,
+    21,
+    23,
+    25,
+    30,
+    31,
+    34,
+    43,
+    56,
+    76
+  ],
+  "tmMoves": [
+    "Swords Dance",
+    "Fly",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Brick Break",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Smack Down",
+    "Flame Charge",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Gunk Shot",
+    "Heat Wave",
+    "Hyper Voice",
+    "Knock Off",
+    "Sky Attack",
+    "Snore",
+    "Tailwind",
+    "Uproar"
+  ],
+  "catchRate": 120,
+  "spawnLevel": 16,
+  "abilities": [
+    "KeenEye",
+    "SkillLink",
+    "Pickup"
+  ],
+  "eggMoves": [
+    "Boomburst",
+    "Brave Bird",
+    "Mirror Move",
+    "Tailwind",
+    "Uproar"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 75,
+    "HP": 55,
+    "SpecialDefence": 50,
+    "Attack": 85,
+    "SpecialAttack": 40,
+    "Defence": 50
+  },
+  "eggCycles": 15,
+  "flyingParameters": {
+    "landingMaterials": "LEAVES_AND_GRASS",
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateY": 100,
+    "flyHeightMin": 5,
+    "flightTimeMin": 0,
+    "flyHeightMax": 25,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "flySpeedModifier": 1.4,
+    "flyRefreshRateSpeed": 100
+  },
+  "spawnLocations": ["AirPersistent"],
+  "evYields": {"Attack": 2},
+  "evolutions": [{
+    "level": 28,
+    "moves": ["Beak Blast"],
+    "to": {"name": "Toucannon"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumFast",
+  "height": 0.6,
+  "baseExp": 124,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "pixelmonName": "Trumbeak",
+  "pokemon": "Trumbeak",
+  "eggGroups": ["Flying"],
+  "preEvolutions": ["Pikipek"],
+  "length": 0.6,
+  "trMoves": [
+    0,
+    20,
+    27,
+    85
+  ],
+  "weight": 14.8,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": -1,
+  "spawnLevelRange": 14,
+  "width": 0.6,
+  "canFly": true,
+  "forms": {}
+}

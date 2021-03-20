@@ -1,0 +1,82 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "String Shot"
+    ],
+    "15": ["Bug Bite"],
+    "5": ["Poison Sting"]
+  },
+  "tmMoves8": [24],
+  "tmMoves": ["Snore"],
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "Snore",
+    "String Shot",
+    "Tackle"
+  ],
+  "catchRate": 255,
+  "spawnLevel": 4,
+  "abilities": [
+    "ShieldDust",
+    null,
+    "RunAway"
+  ],
+  "eggMoves": [],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 20,
+    "HP": 45,
+    "SpecialDefence": 30,
+    "Attack": 45,
+    "SpecialAttack": 20,
+    "Defence": 35
+  },
+  "eggCycles": 16,
+  "spawnLocations": ["Land"],
+  "evYields": {"HP": 1},
+  "evolutions": [
+    {
+      "level": 7,
+      "moves": ["Harden"],
+      "to": {"name": "Silcoon"},
+      "conditions": [{
+        "chance": 0.5,
+        "evoConditionType": "chance"
+      }],
+      "evoType": "leveling"
+    },
+    {
+      "level": 7,
+      "moves": ["Harden"],
+      "to": {"name": "Cascoon"},
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "experienceGroup": "MediumFast",
+  "height": 0.3,
+  "baseExp": 54,
+  "types": ["Bug"],
+  "pixelmonName": "Wurmple",
+  "pokemon": "Wurmple",
+  "eggGroups": ["Bug"],
+  "preEvolutions": [],
+  "length": 0.7,
+  "trMoves": [],
+  "weight": 3.6,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": 0,
+  "spawnLevelRange": 4,
+  "width": 0.7,
+  "canFly": false,
+  "forms": {}
+}

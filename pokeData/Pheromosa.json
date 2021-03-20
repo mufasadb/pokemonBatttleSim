@@ -1,0 +1,153 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "23": ["Silver Wind"],
+    "67": ["High Jump Kick"],
+    "13": ["Stomp"],
+    "47": ["Lunge"],
+    "37": ["Agility"],
+    "59": ["Me First"],
+    "29": ["Bounce"],
+    "19": ["Feint"],
+    "0": [
+      "Quiver Dance",
+      "Quick Guard",
+      "Low Kick",
+      "Rapid Spin",
+      "Leer",
+      "Double Kick"
+    ],
+    "7": ["Swift"],
+    "73": ["Speed Swap"],
+    "31": ["Jump Kick"],
+    "53": ["Bug Buzz"],
+    "43": ["Triple Kick"]
+  },
+  "tmMoves8": [
+    8,
+    21,
+    25,
+    94,
+    39,
+    43,
+    56,
+    59,
+    9,
+    75,
+    76
+  ],
+  "tmMoves": [
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "False Swipe",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Brick Break",
+    "Roost",
+    "U-Turn",
+    "Fling",
+    "Poison Jab",
+    "Focus Blast",
+    "Giga Impact",
+    "Low Sweep",
+    "Round",
+    "Echoed Voice",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Bounce",
+    "Bug Bite",
+    "Drill Run",
+    "Electroweb",
+    "Foul Play",
+    "Icy Wind",
+    "Laser Focus",
+    "Low Kick",
+    "Outrage",
+    "Shock Wave",
+    "Signal Beam",
+    "Snatch",
+    "Snore",
+    "Throat Chop"
+  ],
+  "catchRate": 45,
+  "spawnLevel": 70,
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggMoves": [],
+  "isRideable": true,
+  "malePercent": -1,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": -0.2,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0,
+      "y": -0.2,
+      "z": -0.3
+    }
+  },
+  "stats": {
+    "Speed": 151,
+    "HP": 71,
+    "SpecialDefence": 37,
+    "Attack": 137,
+    "SpecialAttack": 137,
+    "Defence": 37
+  },
+  "eggCycles": 120,
+  "spawnLocations": [],
+  "evYields": {"Speed": 3},
+  "evolutions": [],
+  "experienceGroup": "Slow",
+  "height": 3,
+  "baseExp": 114,
+  "types": [
+    "Bug",
+    "Fighting"
+  ],
+  "pixelmonName": "Pheromosa",
+  "pokemon": "Pheromosa",
+  "eggGroups": ["Undiscovered"],
+  "preEvolutions": [],
+  "length": 1.8,
+  "trMoves": [
+    5,
+    6,
+    20,
+    27,
+    37,
+    57,
+    64
+  ],
+  "weight": 25,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": -1,
+  "spawnLevelRange": 0,
+  "width": 1.8,
+  "canFly": false,
+  "forms": {}
+}

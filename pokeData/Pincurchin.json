@@ -1,0 +1,131 @@
+{
+  "canSurf": true,
+  "levelUpMoves": {
+    "55": ["Acupressure"],
+    "45": ["Poison Jab"],
+    "35": ["Curse"],
+    "25": ["Bubble Beam"],
+    "15": ["Fury Attack"],
+    "0": [
+      "Peck",
+      "Thunder Shock"
+    ],
+    "5": ["Water Gun"],
+    "60": ["Discharge"],
+    "50": ["Zing Zap"],
+    "40": ["Electric Terrain"],
+    "30": ["Recover"],
+    "20": ["Spark"],
+    "10": ["Charge"]
+  },
+  "tmMoves8": [
+    7,
+    14,
+    20,
+    21,
+    24,
+    25,
+    31,
+    33,
+    39,
+    55,
+    57,
+    58,
+    74,
+    76,
+    77,
+    90
+  ],
+  "tmMoves": [
+    "Thunder Wave",
+    "Self-Destruct",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Facade",
+    "Brine",
+    "Payback",
+    "Venoshock",
+    "Round",
+    "Surf",
+    "Thunderbolt",
+    "Thunder",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Poison Jab",
+    "Scald"
+  ],
+  "tutorMoves": ["Rising Voltage"],
+  "catchRate": 75,
+  "spawnLevel": 13,
+  "abilities": [
+    "LightningRod",
+    null,
+    "ElectricSurge"
+  ],
+  "eggMoves": [
+    "Memento",
+    "Sucker Punch"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 15,
+    "HP": 48,
+    "SpecialDefence": 85,
+    "Attack": 101,
+    "SpecialAttack": 91,
+    "Defence": 95
+  },
+  "eggCycles": 21,
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {"Attack": 2},
+  "evolutions": [],
+  "experienceGroup": "MediumFast",
+  "height": 1,
+  "baseExp": 152,
+  "types": ["Electric"],
+  "pixelmonName": "Pincurchin",
+  "pokemon": "Pincurchin",
+  "eggGroups": [
+    "Water1",
+    "Amorphous"
+  ],
+  "preEvolutions": [],
+  "length": 0.9,
+  "trMoves": [
+    3,
+    4,
+    8,
+    9,
+    20,
+    21,
+    23,
+    26,
+    27,
+    45,
+    54,
+    57,
+    84,
+    91,
+    95,
+    98
+  ],
+  "weight": 1,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "form": 0,
+  "baseFriendship": 50,
+  "spawnLevelRange": 29,
+  "width": 0.8,
+  "canFly": false
+}

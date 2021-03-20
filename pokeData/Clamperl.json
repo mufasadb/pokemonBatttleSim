@@ -1,0 +1,166 @@
+{
+  "canSurf": true,
+  "levelUpMoves": {
+    "0": [
+      "Clamp",
+      "Water Gun",
+      "Whirlpool",
+      "Iron Defense"
+    ],
+    "50": ["Shell Smash"]
+  },
+  "tmMoves8": [
+    21,
+    25,
+    31,
+    33,
+    35,
+    39,
+    76,
+    45,
+    36,
+    24,
+    27,
+    55
+  ],
+  "swimmingParameters": {
+    "depthRangeStart": -1,
+    "swimSpeed": 0,
+    "depthRangeEnd": 0,
+    "refreshRate": 0,
+    "decayRate": 0
+  },
+  "tmMoves": [
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Toxic",
+    "Double Team",
+    "Waterfall",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Round",
+    "Scald",
+    "Confide",
+    "Dive",
+    "Whirlpool",
+    "Body Slam",
+    "Double-Edge",
+    "Water Gun",
+    "Mimic",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Water Pulse",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power"
+  ],
+  "tutorMoves": [
+    "Icy Wind",
+    "Iron Defense",
+    "Snore",
+    "Water Pulse",
+    "Aqua Ring",
+    "Barrier",
+    "Mud Sport",
+    "Refresh"
+  ],
+  "catchRate": 255,
+  "spawnLevel": 25,
+  "abilities": [
+    "ShellArmour",
+    null,
+    "Rattled"
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Barrier",
+    "Body Slam",
+    "Brine",
+    "Confuse Ray",
+    "Endure",
+    "Mud Sport",
+    "Muddy Water",
+    "Refresh",
+    "Supersonic",
+    "Water Pulse"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 32,
+    "HP": 35,
+    "SpecialDefence": 55,
+    "Attack": 64,
+    "SpecialAttack": 74,
+    "Defence": 85
+  },
+  "eggCycles": 21,
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {"Defence": 1},
+  "evolutions": [
+    {
+      "to": {"name": "Gorebyss"},
+      "conditions": [{
+        "item": {"itemID": "pixelmon:deep_sea_scale"},
+        "evoConditionType": "heldItem"
+      }],
+      "evoType": "trade"
+    },
+    {
+      "to": {"name": "Huntail"},
+      "conditions": [{
+        "item": {"itemID": "pixelmon:deep_sea_tooth"},
+        "evoConditionType": "heldItem"
+      }],
+      "evoType": "trade"
+    }
+  ],
+  "experienceGroup": "Erratic",
+  "height": 0.4,
+  "baseExp": 142,
+  "types": ["Water"],
+  "pixelmonName": "Clamperl",
+  "pokemon": "Clamperl",
+  "eggGroups": ["Water1"],
+  "preEvolutions": [],
+  "length": 0.7,
+  "trMoves": [
+    4,
+    5,
+    6,
+    16,
+    20,
+    27,
+    84,
+    1,
+    26
+  ],
+  "weight": 52.5,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": 0,
+  "spawnLevelRange": 5,
+  "width": 0.7,
+  "canFly": false,
+  "forms": {}
+}

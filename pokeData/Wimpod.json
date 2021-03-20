@@ -1,0 +1,123 @@
+{
+  "canSurf": true,
+  "levelUpMoves": {"1": [
+    "Struggle Bug",
+    "Sand Attack",
+    "Defense Curl"
+  ]},
+  "tmMoves8": [
+    16,
+    21,
+    24,
+    25,
+    31,
+    33,
+    35,
+    39,
+    40,
+    53,
+    58,
+    76
+  ],
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Leech Life",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide",
+    "Snore",
+    "Swift",
+    "Endure"
+  ],
+  "tutorMoves": ["Snore"],
+  "catchRate": 90,
+  "spawnLevel": 6,
+  "abilities": [
+    "WimpOut",
+    null,
+    null
+  ],
+  "eggMoves": [
+    "Metal Claw",
+    "Wide Guard",
+    "Harden",
+    "Aqua Jet",
+    "Rollout",
+    "Spikes"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 80,
+    "HP": 25,
+    "SpecialDefence": 30,
+    "Attack": 35,
+    "SpecialAttack": 20,
+    "Defence": 40
+  },
+  "eggCycles": 20,
+  "spawnLocations": [],
+  "evYields": {"Speed": 1},
+  "evolutions": [{
+    "level": 30,
+    "moves": ["First Impression"],
+    "to": {"name": "Golisopod"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumFast",
+  "height": 0.5,
+  "baseExp": 46,
+  "types": [
+    "Bug",
+    "Water"
+  ],
+  "pixelmonName": "Wimpod",
+  "pokemon": "Wimpod",
+  "eggGroups": [
+    "Bug",
+    "Water3"
+  ],
+  "preEvolutions": [],
+  "length": 0.5,
+  "trMoves": [
+    4,
+    16,
+    18,
+    20,
+    23,
+    26,
+    27,
+    37,
+    61,
+    84
+  ],
+  "weight": 12,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": 0,
+  "spawnLevelRange": 18,
+  "width": 0.5,
+  "canFly": false,
+  "forms": {}
+}

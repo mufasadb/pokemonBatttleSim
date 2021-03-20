@@ -1,0 +1,171 @@
+{
+  "canSurf": true,
+  "levelUpMoves": {
+    "44": ["Lunge"],
+    "1": [
+      "Wide Guard",
+      "Water Gun",
+      "Infestation",
+      "Bug Bite",
+      "Bite"
+    ],
+    "12": ["Bubble Beam"],
+    "56": ["Leech Life"],
+    "26": ["Crunch"],
+    "16": ["Aqua Ring"],
+    "38": ["Entrainment"],
+    "50": ["Liquidation"],
+    "62": ["Mirror Coat"],
+    "20": ["Headbutt"],
+    "32": ["Soak"]
+  },
+  "tmMoves8": [
+    18,
+    19,
+    21,
+    24,
+    25,
+    27,
+    28,
+    31,
+    33,
+    39,
+    45,
+    71,
+    72,
+    76
+  ],
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Leech Life",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Frost Breath",
+    "X-Scissor",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide",
+    "Snore",
+    "Icy Wind",
+    "Giga Drain",
+    "Dive",
+    "Endure"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Signal Beam",
+    "Magic Coat",
+    "Iron Defense",
+    "Icy Wind",
+    "Snore",
+    "Giga Drain",
+    "Water Pulse",
+    "Magic Room",
+    "Wonder Room",
+    "Liquidation",
+    "Laser Focus"
+  ],
+  "catchRate": 100,
+  "spawnLevel": 22,
+  "abilities": [
+    "WaterBubble",
+    null,
+    "WaterAbsorb"
+  ],
+  "eggMoves": [
+    "Power Split",
+    "Aurora Beam",
+    "Stockpile",
+    "Spit Up",
+    "Sticky Web"
+  ],
+  "isRideable": true,
+  "malePercent": 50,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": -0.3,
+      "z": 0
+    },
+    "moving": {
+      "x": 0,
+      "y": -0.3,
+      "z": 0
+    }
+  },
+  "stats": {
+    "Speed": 42,
+    "HP": 68,
+    "SpecialDefence": 132,
+    "Attack": 70,
+    "SpecialAttack": 50,
+    "Defence": 92
+  },
+  "eggCycles": 15,
+  "spawnLocations": ["Water"],
+  "evYields": {"SpecialDefence": 2},
+  "evolutions": [],
+  "experienceGroup": "MediumFast",
+  "height": 2,
+  "baseExp": 159,
+  "types": [
+    "Water",
+    "Bug"
+  ],
+  "pixelmonName": "Araquanid",
+  "pokemon": "Araquanid",
+  "eggGroups": [
+    "Water1",
+    "Bug"
+  ],
+  "preEvolutions": ["Dewpider"],
+  "length": 4,
+  "trMoves": [
+    3,
+    4,
+    5,
+    6,
+    16,
+    18,
+    20,
+    26,
+    27,
+    32,
+    46,
+    57,
+    60,
+    61,
+    84,
+    98
+  ],
+  "weight": 82,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": -1,
+  "spawnLevelRange": 50,
+  "width": 2,
+  "canFly": false,
+  "forms": {}
+}

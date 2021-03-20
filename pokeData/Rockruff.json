@@ -1,0 +1,165 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "12": ["Howl"],
+    "23": ["Rock Tomb"],
+    "34": ["Rock Slide"],
+    "45": ["Rock Climb"],
+    "15": ["Rock Throw"],
+    "26": ["Roar"],
+    "37": ["Scary Face"],
+    "48": ["Stone Edge"],
+    "18": ["Odor Sleuth"],
+    "29": ["Stealth Rock"],
+    "0": [
+      "Tackle",
+      "Leer"
+    ],
+    "4": ["Sand Attack"],
+    "7": ["Bite"],
+    "40": ["Crunch"]
+  },
+  "tmMoves8": [
+    25,
+    48,
+    39,
+    21,
+    31,
+    76,
+    22,
+    85
+  ],
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Rock Polish",
+    "Stone Edge",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Snarl",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Iron Head",
+    "Earth Power",
+    "Iron Defense",
+    "Last Resort",
+    "Zen Headbutt",
+    "Hyper Voice",
+    "Iron Tail",
+    "Snore",
+    "Endeavor",
+    "Stealth Rock",
+    "Stomping Tantrum"
+  ],
+  "catchRate": 190,
+  "spawnLevel": 10,
+  "abilities": [
+    "KeenEye",
+    "VitalSpirit",
+    "Steadfast"
+  ],
+  "eggMoves": [
+    "Crush Claw",
+    "Fire Fang",
+    "Thunder Fang",
+    "Sucker Punch",
+    "Thrash"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 60,
+    "HP": 45,
+    "SpecialDefence": 40,
+    "Attack": 65,
+    "SpecialAttack": 30,
+    "Defence": 40
+  },
+  "eggCycles": 15,
+  "spawnLocations": [],
+  "evYields": {"Attack": 1},
+  "evolutions": [
+    {
+      "level": 25,
+      "moves": ["Accelerock"],
+      "to": {
+        "form": 0,
+        "name": "Lycanroc"
+      },
+      "conditions": [{
+        "time": "DAY",
+        "evoConditionType": "time"
+      }],
+      "evoType": "leveling"
+    },
+    {
+      "level": 25,
+      "moves": ["Counter"],
+      "to": {
+        "form": 1,
+        "name": "Lycanroc"
+      },
+      "conditions": [{
+        "time": "NIGHT",
+        "evoConditionType": "time"
+      }],
+      "evoType": "leveling"
+    },
+    {
+      "level": 25,
+      "moves": ["Thrash"],
+      "to": {
+        "form": 2,
+        "name": "Lycanroc"
+      },
+      "conditions": [{
+        "time": "DUSK",
+        "evoConditionType": "time"
+      }],
+      "evoType": "leveling"
+    }
+  ],
+  "experienceGroup": "MediumFast",
+  "height": 0.3,
+  "baseExp": 56,
+  "types": ["Rock"],
+  "pixelmonName": "Rockruff",
+  "pokemon": "Rockruff",
+  "eggGroups": ["Field"],
+  "preEvolutions": [],
+  "length": 0.5,
+  "trMoves": [
+    37,
+    75,
+    27,
+    20
+  ],
+  "weight": 9.2,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": 0,
+  "spawnLevelRange": 20,
+  "width": 0.5,
+  "canFly": false,
+  "forms": {}
+}

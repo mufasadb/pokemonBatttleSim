@@ -1,0 +1,242 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "22": ["Twister"],
+    "44": ["Roost"],
+    "56": ["Mirror Move"],
+    "13": ["Quick Attack"],
+    "68": ["Hurricane"],
+    "27": ["Feather Dance"],
+    "38": ["Wing Attack"],
+    "17": ["Whirlwind"],
+    "0": [
+      "Hurricane",
+      "Tackle",
+      "Sand Attack",
+      "Gust",
+      "Quick Attack"
+    ],
+    "5": ["Sand Attack"],
+    "9": ["Gust"],
+    "50": ["Tailwind"],
+    "62": ["Air Slash"],
+    "32": ["Agility"]
+  },
+  "tmMoves8": [
+    6,
+    8,
+    21,
+    23,
+    25,
+    30,
+    31,
+    33,
+    34,
+    39,
+    56,
+    9,
+    76,
+    40,
+    24,
+    18
+  ],
+  "tmMoves": [
+    "Fly",
+    "Hyper Beam",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Giga Impact",
+    "Round",
+    "Work Up",
+    "Confide",
+    "Pluck",
+    "Defog",
+    "Razor Wind",
+    "Whirlwind",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Sky Attack",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Detect",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Heat Wave",
+    "Laser Focus",
+    "Sky Attack",
+    "Snore",
+    "Tailwind",
+    "Uproar",
+    "Air Cutter",
+    "Ominous Wind",
+    "Twister",
+    "Agility",
+    "Air Slash",
+    "Feint Attack",
+    "Feather Dance",
+    "Foresight",
+    "Gust",
+    "Hurricane",
+    "Pursuit",
+    "Refresh",
+    "Tackle"
+  ],
+  "catchRate": 45,
+  "spawnLevel": 36,
+  "abilities": [
+    "KeenEye",
+    "TangledFeet",
+    "BigPecks"
+  ],
+  "eggMoves": [
+    "Air Cutter",
+    "Air Slash",
+    "Brave Bird",
+    "Defog",
+    "Feint Attack",
+    "Foresight",
+    "Pursuit",
+    "Steel Wing",
+    "Uproar"
+  ],
+  "isRideable": true,
+  "malePercent": 50,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": -1,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0,
+      "y": -1.3,
+      "z": -0.3
+    }
+  },
+  "stats": {
+    "Speed": 101,
+    "HP": 83,
+    "SpecialDefence": 70,
+    "Attack": 80,
+    "SpecialAttack": 70,
+    "Defence": 75
+  },
+  "eggCycles": 16,
+  "flyingParameters": {
+    "landingMaterials": "LEAVES_AND_GRASS",
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateY": 100,
+    "flyHeightMin": 0,
+    "flightTimeMin": 0,
+    "flyHeightMax": 20,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "flySpeedModifier": 1,
+    "flyRefreshRateSpeed": 100
+  },
+  "spawnLocations": ["Air"],
+  "evYields": {"Speed": 3},
+  "evolutions": [],
+  "experienceGroup": "MediumSlow",
+  "height": 1.5,
+  "baseExp": 211,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "pixelmonName": "Pidgeot",
+  "pokemon": "Pidgeot",
+  "eggGroups": ["Flying"],
+  "preEvolutions": [
+    "Pidgeotto",
+    "Pidgey"
+  ],
+  "length": 1,
+  "trMoves": [
+    20,
+    27,
+    85,
+    26
+  ],
+  "weight": 39.5,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "mountedFlying": {
+    "maxFlySpeed": 2.1,
+    "turnRate": 1.25,
+    "decelerationRate": 0.25,
+    "accelerationRate": 0.09,
+    "strafeAccelerationRate": 0.9,
+    "upperAngleLimit": 40,
+    "lowerAngleLimit": -40,
+    "hoverDecelerationRate": 0.09,
+    "pitchRate": 1.25,
+    "strafeRollConversion": 30
+  },
+  "baseFriendship": 70,
+  "form": -1,
+  "spawnLevelRange": 14,
+  "width": 1,
+  "canFly": true,
+  "forms": {"1": {
+    "abilities": [
+      "NoGuard",
+      null,
+      null
+    ],
+    "ridingOffsets": {
+      "standing": {
+        "x": 0,
+        "y": 1.5,
+        "z": -0.6
+      },
+      "moving": {
+        "x": 0,
+        "y": 1.5,
+        "z": -0.6
+      }
+    },
+    "form": 1,
+    "stats": {
+      "Speed": 121,
+      "HP": 83,
+      "SpecialDefence": 80,
+      "Attack": 80,
+      "SpecialAttack": 135,
+      "Defence": 80
+    },
+    "weight": 50.5,
+    "height": 2.2
+  }}
+}

@@ -1,0 +1,116 @@
+{
+  "canSurf": false,
+  "hoverHeight": 0.5,
+  "levelUpMoves": {
+    "0": [
+      "Dragon Pulse",
+      "Peck",
+      "Growl",
+      "Helping Hand",
+      "Acid"
+    ],
+    "23": ["Venom Drench"],
+    "13": ["Venoshock"],
+    "47": ["Fell Stinger"],
+    "37": ["Poison Jab"],
+    "7": ["Fury Attack"],
+    "19": ["Charm"],
+    "41": ["Toxic"],
+    "31": ["Nasty Plot"]
+  },
+  "tmMoves8": [
+    21,
+    25,
+    39,
+    74,
+    76
+  ],
+  "tmMoves": [
+    "Toxic",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Sludge Bomb",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Facade",
+    "Poison Jab",
+    "Venoshock",
+    "Sludge Wave",
+    "Round",
+    "Echoed Voice",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Dragon Pulse",
+    "Gastro Acid",
+    "Gunk Shot",
+    "Helping Hand",
+    "Iron Tail",
+    "Signal Beam",
+    "Snatch",
+    "Snore",
+    "Uproar"
+  ],
+  "catchRate": 45,
+  "spawnLevel": 50,
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggMoves": [],
+  "isRideable": false,
+  "malePercent": -1,
+  "stats": {
+    "Speed": 73,
+    "HP": 67,
+    "SpecialDefence": 67,
+    "Attack": 73,
+    "SpecialAttack": 73,
+    "Defence": 67
+  },
+  "eggCycles": 120,
+  "spawnLocations": [],
+  "evYields": {"Speed": 1},
+  "evolutions": [{
+    "moves": ["Air Cutter"],
+    "to": {"name": "Naganadel"},
+    "conditions": [{
+      "attackIndex": 437,
+      "evoConditionType": "move"
+    }],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "Slow",
+  "height": 0.6,
+  "baseExp": 189,
+  "types": ["Poison"],
+  "pixelmonName": "Poipole",
+  "pokemon": "Poipole",
+  "eggGroups": ["Undiscovered"],
+  "preEvolutions": [],
+  "length": 0.6,
+  "trMoves": [
+    20,
+    22,
+    27,
+    57,
+    78
+  ],
+  "weight": 1.8,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": -1,
+  "spawnLevelRange": 0,
+  "width": 0.6,
+  "canFly": true,
+  "forms": {}
+}

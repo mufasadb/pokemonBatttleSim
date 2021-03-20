@@ -1,0 +1,153 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "1": [
+      "Powder Snow",
+      "Tackle"
+    ],
+    "12": ["Weather Ball"],
+    "24": ["Headbutt"],
+    "36": ["Freeze-Dry"],
+    "48": ["Aurora Veil"],
+    "6": ["Mist"],
+    "18": ["Icy Wind"],
+    "60": ["Blizzard"],
+    "30": ["Amnesia"],
+    "42": ["Hail"],
+    "54": ["Surf"]
+  },
+  "tmMoves8": [
+    4,
+    18,
+    21,
+    24,
+    25,
+    27,
+    31,
+    35,
+    36,
+    39,
+    45,
+    46,
+    51,
+    55,
+    64,
+    76
+  ],
+  "tmMoves": [
+    "Agility",
+    "Amnesia",
+    "Attract",
+    "Avalanche",
+    "Blizzard",
+    "Brine",
+    "Dive",
+    "Endure",
+    "Facade",
+    "Hail",
+    "Hydro Pump",
+    "Ice Beam",
+    "Ice Punch",
+    "Icicle Spear",
+    "Icy Wind",
+    "Iron Defense",
+    "Iron Head",
+    "Liquidation",
+    "Protect",
+    "Reflect",
+    "Rest",
+    "Reversal",
+    "Round",
+    "Sleep Talk",
+    "Snore",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Weather Ball",
+    "Whirlpool",
+    "Zen Headbutt"
+  ],
+  "tutorMoves": [],
+  "catchRate": 60,
+  "spawnLevel": 22,
+  "abilities": [
+    "IceFace",
+    null,
+    null
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Belly Drum",
+    "Double-Edge",
+    "Head Smash",
+    "Icicle Crash",
+    "Soak"
+  ],
+  "isRideable": true,
+  "malePercent": 50,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": -0.6,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0,
+      "y": -0.6,
+      "z": -0.1
+    }
+  },
+  "stats": {
+    "Speed": 50,
+    "HP": 75,
+    "SpecialDefence": 90,
+    "Attack": 80,
+    "SpecialAttack": 65,
+    "Defence": 110
+  },
+  "eggCycles": 26,
+  "spawnLocations": ["Land"],
+  "evYields": {"Defence": 2},
+  "evolutions": [],
+  "experienceGroup": "Slow",
+  "height": 1.4,
+  "baseExp": 165,
+  "types": ["Ice"],
+  "pixelmonName": "Eiscue",
+  "pokemon": "Eiscue",
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "preEvolutions": [],
+  "length": 0.8,
+  "trMoves": [
+    3,
+    4,
+    5,
+    6,
+    12,
+    16,
+    17,
+    20,
+    21,
+    26,
+    27,
+    46,
+    69,
+    74,
+    98
+  ],
+  "weight": 89,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 50,
+  "form": 0,
+  "spawnLevelRange": 20,
+  "width": 0.8,
+  "canFly": false,
+  "forms": {}
+}

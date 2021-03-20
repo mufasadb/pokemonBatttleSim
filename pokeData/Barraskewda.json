@@ -1,0 +1,138 @@
+{
+  "canSurf": true,
+  "levelUpMoves": {
+    "1": [
+      "Throat Chop",
+      "Peck",
+      "Aqua Jet",
+      "Fury Attack",
+      "Bite"
+    ],
+    "56": ["Double-Edge"],
+    "24": ["Dive"],
+    "48": ["Liquidation"],
+    "18": ["Agility"],
+    "40": ["Crunch"],
+    "32": ["Laser Focus"]
+  },
+  "tmMoves8": [
+    8,
+    9,
+    21,
+    24,
+    25,
+    26,
+    31,
+    33,
+    36,
+    39,
+    40,
+    43,
+    45,
+    52,
+    58,
+    67,
+    76
+  ],
+  "tmMoves": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Whirlpool",
+    "Facade",
+    "Swift",
+    "Brick Break",
+    "Dive",
+    "Round",
+    "Surf",
+    "Waterfall",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Poison Jab",
+    "Scald"
+  ],
+  "tutorMoves": [],
+  "catchRate": 60,
+  "spawnLevel": 26,
+  "abilities": [
+    "SwiftSwim",
+    null,
+    "PropellerTail"
+  ],
+  "eggMoves": [
+    "Acupressure",
+    "Night Slash",
+    "Slash",
+    "Thrash"
+  ],
+  "isRideable": true,
+  "malePercent": 50,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": -0.53,
+      "z": 0
+    },
+    "moving": {
+      "x": 0,
+      "y": -0.53,
+      "z": 0
+    }
+  },
+  "stats": {
+    "Speed": 136,
+    "HP": 61,
+    "SpecialDefence": 50,
+    "Attack": 123,
+    "SpecialAttack": 60,
+    "Defence": 60
+  },
+  "eggCycles": 21,
+  "spawnLocations": ["Land"],
+  "evYields": {"Speed": 2},
+  "evolutions": [],
+  "experienceGroup": "Slow",
+  "height": 0.4,
+  "baseExp": 172,
+  "types": ["Water"],
+  "pixelmonName": "Barraskewda",
+  "pokemon": "Barraskewda",
+  "eggGroups": ["Water2"],
+  "preEvolutions": ["Arrokuda"],
+  "length": 2,
+  "trMoves": [
+    3,
+    4,
+    12,
+    13,
+    16,
+    20,
+    26,
+    27,
+    32,
+    53,
+    57,
+    84,
+    87,
+    95,
+    97,
+    98
+  ],
+  "weight": 30,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 50,
+  "form": 0,
+  "spawnLevelRange": 26,
+  "width": 1,
+  "canFly": false,
+  "forms": {}
+}

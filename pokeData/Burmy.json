@@ -1,0 +1,92 @@
+{
+  "canSurf": false,
+  "hoverHeight": 1,
+  "levelUpMoves": {
+    "0": ["Protect"],
+    "15": ["Bug Bite"],
+    "20": ["Hidden Power"],
+    "10": ["Tackle"]
+  },
+  "tmMoves8": [
+    25,
+    24
+  ],
+  "tmMoves": [
+    "Protect",
+    "Hidden Power",
+    "Snore",
+    "Sleep Talk"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "Snore",
+    "String Shot",
+    "Tackle"
+  ],
+  "catchRate": 120,
+  "spawnLevel": 5,
+  "abilities": [
+    "ShedSkin",
+    null,
+    "Overcoat"
+  ],
+  "eggMoves": [],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 36,
+    "HP": 40,
+    "SpecialDefence": 45,
+    "Attack": 29,
+    "SpecialAttack": 29,
+    "Defence": 45
+  },
+  "eggCycles": 16,
+  "spawnLocations": ["Land"],
+  "evYields": {"SpecialDefence": 1},
+  "evolutions": [
+    {
+      "level": 20,
+      "moves": ["Quiver Dance"],
+      "to": {"name": "Wormadam"},
+      "conditions": [{
+        "genders": ["Female"],
+        "evoConditionType": "gender"
+      }],
+      "evoType": "leveling"
+    },
+    {
+      "level": 20,
+      "moves": ["Quiver Dance"],
+      "to": {"name": "Mothim"},
+      "conditions": [{
+        "genders": ["Male"],
+        "evoConditionType": "gender"
+      }],
+      "evoType": "leveling"
+    }
+  ],
+  "experienceGroup": "MediumFast",
+  "height": 1.5,
+  "baseExp": 45,
+  "types": ["Bug"],
+  "pixelmonName": "Burmy",
+  "pokemon": "Burmy",
+  "eggGroups": ["Bug"],
+  "preEvolutions": [],
+  "length": 0.5,
+  "trMoves": [27],
+  "weight": 3.4,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": 0,
+  "spawnLevelRange": 15,
+  "width": 0.5,
+  "canFly": false,
+  "forms": {}
+}

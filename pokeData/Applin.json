@@ -1,0 +1,83 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {"1": [
+    "Withdraw",
+    "Astonish"
+  ]},
+  "tmMoves8": [31],
+  "tmMoves": ["Attract"],
+  "tutorMoves": [
+    "Draco Meteor",
+    "Grassy Glide"
+  ],
+  "catchRate": 255,
+  "spawnLevel": 16,
+  "abilities": [
+    "Ripen",
+    "Gluttony",
+    "Bulletproof"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Recycle",
+    "Rollout",
+    "Sucker Punch"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 20,
+    "HP": 40,
+    "SpecialDefence": 40,
+    "Attack": 40,
+    "SpecialAttack": 40,
+    "Defence": 80
+  },
+  "eggCycles": 21,
+  "spawnLocations": ["Land"],
+  "evYields": {"Defence": 1},
+  "evolutions": [
+    {
+      "item": {"itemID": "pixelmon:tart_apple"},
+      "moves": ["Wing Attack"],
+      "to": {"name": "Flapple"},
+      "conditions": [],
+      "evoType": "interact"
+    },
+    {
+      "item": {"itemID": "pixelmon:sweet_apple"},
+      "moves": ["Headbutt"],
+      "to": {"name": "Appletun"},
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "experienceGroup": "Erratic",
+  "height": 0.2,
+  "baseExp": 52,
+  "types": [
+    "Grass",
+    "Dragon"
+  ],
+  "pixelmonName": "Applin",
+  "pokemon": "Applin",
+  "eggGroups": [
+    "Grass",
+    "Dragon"
+  ],
+  "preEvolutions": [],
+  "length": 0.4,
+  "trMoves": [],
+  "weight": 0.5,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 50,
+  "form": 0,
+  "spawnLevelRange": 6,
+  "width": 0.4,
+  "canFly": false,
+  "forms": {}
+}

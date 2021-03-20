@@ -1,0 +1,163 @@
+{
+  "canSurf": false,
+  "hoverHeight": 1,
+  "levelUpMoves": {
+    "1": [
+      "Gear Up",
+      "Magnetic Flux",
+      "Thunder Shock",
+      "Vise Grip",
+      "Bind",
+      "Charge"
+    ],
+    "12": ["Charge Beam"],
+    "56": ["Hyper Beam"],
+    "24": ["Discharge"],
+    "36": ["Lock-On"],
+    "48": ["Zap Cannon"],
+    "16": ["Metal Sound"],
+    "28": ["Screech"],
+    "20": ["Autotomize"],
+    "42": ["Shift Gear"],
+    "64": ["Electric Terrain"],
+    "32": ["Gear Grind"]
+  },
+  "tmMoves8": [
+    8,
+    9,
+    14,
+    16,
+    21,
+    24,
+    25,
+    32,
+    39,
+    58,
+    70,
+    76,
+    80,
+    90
+  ],
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Giga Impact",
+    "Rock Polish",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Wild Charge",
+    "Rock Smash",
+    "Zap Cannon",
+    "Snore",
+    "Sleep Talk",
+    "Recycle",
+    "Secret Power",
+    "Confide",
+    "Shock Wave",
+    "Endure",
+    "Ally Switch"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Gravity",
+    "Iron Defense",
+    "Magic Coat",
+    "Magnet Rise",
+    "Signal Beam",
+    "Uproar",
+    "Metal Sound",
+    "Screech",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "catchRate": 30,
+  "spawnLevel": 49,
+  "abilities": [
+    "Plus",
+    "Minus",
+    "ClearBody"
+  ],
+  "eggMoves": [],
+  "isRideable": true,
+  "malePercent": -1,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.1,
+      "y": -1.05,
+      "z": 0
+    },
+    "moving": {
+      "x": 0.1,
+      "y": -1.05,
+      "z": 0
+    }
+  },
+  "stats": {
+    "Speed": 90,
+    "HP": 60,
+    "SpecialDefence": 85,
+    "Attack": 100,
+    "SpecialAttack": 70,
+    "Defence": 115
+  },
+  "eggCycles": 21,
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {"Defence": 3},
+  "evolutions": [],
+  "experienceGroup": "MediumSlow",
+  "height": 0.6,
+  "baseExp": 234,
+  "types": ["Steel"],
+  "pixelmonName": "Klinklang",
+  "pokemon": "Klinklang",
+  "eggGroups": ["Mineral"],
+  "preEvolutions": [
+    "Klang",
+    "Klink"
+  ],
+  "length": 0.8,
+  "trMoves": [
+    8,
+    9,
+    20,
+    26,
+    27,
+    35,
+    46,
+    63,
+    70,
+    83,
+    86
+  ],
+  "weight": 81,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": 0,
+  "spawnLevelRange": 11,
+  "width": 0.8,
+  "canFly": true,
+  "forms": {}
+}

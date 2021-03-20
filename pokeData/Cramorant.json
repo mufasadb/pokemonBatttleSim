@@ -1,0 +1,151 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "1": [
+      "Belch",
+      "Peck",
+      "Stockpile",
+      "Swallow",
+      "Spit Up"
+    ],
+    "56": ["Hydro Pump"],
+    "35": ["Drill Peck"],
+    "14": ["Fury Attack"],
+    "49": ["Thrash"],
+    "28": ["Dive"],
+    "7": ["Water Gun"],
+    "42": ["Amnesia"],
+    "21": ["Pluck"]
+  },
+  "tmMoves8": [
+    6,
+    8,
+    9,
+    21,
+    23,
+    24,
+    25,
+    27,
+    30,
+    31,
+    33,
+    36,
+    39,
+    45,
+    46,
+    58,
+    76,
+    95
+  ],
+  "tmMoves": [
+    "Fly",
+    "Hyper Beam",
+    "Giga Impact",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Steel Wing",
+    "Attract",
+    "Rain Dance",
+    "Whirlpool",
+    "Facade",
+    "Dive",
+    "Round",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Scald"
+  ],
+  "tutorMoves": ["Dual Wingbeat"],
+  "catchRate": 45,
+  "spawnLevel": 27,
+  "abilities": [
+    "GulpMissile",
+    null,
+    null
+  ],
+  "eggMoves": [
+    "Aerial Ace",
+    "Aqua Ring",
+    "Defog",
+    "Feather Dance",
+    "Roost"
+  ],
+  "isRideable": true,
+  "malePercent": 50,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": -0.8,
+      "z": -0.08
+    },
+    "moving": {
+      "x": 0,
+      "y": -0.6,
+      "z": -0.08
+    }
+  },
+  "stats": {
+    "Speed": 85,
+    "HP": 70,
+    "SpecialDefence": 95,
+    "Attack": 85,
+    "SpecialAttack": 85,
+    "Defence": 55
+  },
+  "eggCycles": 21,
+  "spawnLocations": ["Land"],
+  "evYields": {"SpecialDefence": 2},
+  "evolutions": [],
+  "experienceGroup": "MediumFast",
+  "height": 0.8,
+  "baseExp": 166,
+  "types": [
+    "Flying",
+    "Water"
+  ],
+  "pixelmonName": "Cramorant",
+  "pokemon": "Cramorant",
+  "eggGroups": [
+    "Water1",
+    "Flying"
+  ],
+  "preEvolutions": [],
+  "length": 0.8,
+  "trMoves": [
+    3,
+    4,
+    5,
+    6,
+    12,
+    17,
+    20,
+    21,
+    26,
+    27,
+    35,
+    39,
+    66,
+    84,
+    89,
+    95,
+    98
+  ],
+  "weight": 18,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 50,
+  "form": 0,
+  "spawnLevelRange": 18,
+  "width": 0.8,
+  "canFly": true,
+  "forms": {}
+}

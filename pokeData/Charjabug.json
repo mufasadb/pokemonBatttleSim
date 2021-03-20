@@ -1,0 +1,153 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "0": ["Charge"],
+    "1": [
+      "Charge",
+      "Vise Grip",
+      "Mud-Slap",
+      "String Shot",
+      "Bug Bite"
+    ],
+    "23": ["Spark"],
+    "57": ["Iron Defense"],
+    "36": ["X-Scissor"],
+    "15": ["Bite"],
+    "29": ["Sticky Web"],
+    "50": ["Dig"],
+    "64": ["Discharge"],
+    "43": ["Crunch"]
+  },
+  "tmMoves8": [
+    14,
+    15,
+    16,
+    17,
+    21,
+    24,
+    25,
+    31,
+    33,
+    39,
+    53,
+    76,
+    78,
+    80,
+    82,
+    93
+  ],
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Charge Beam",
+    "Acrobatics",
+    "Volt Switch",
+    "Thunder Wave",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Confide",
+    "Dig",
+    "Snore",
+    "Endure"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Magnet Rise",
+    "Iron Defense",
+    "Electroweb",
+    "Snore",
+    "Shock Wave"
+  ],
+  "catchRate": 120,
+  "spawnLevel": 20,
+  "abilities": [
+    "Battery",
+    null,
+    null
+  ],
+  "eggMoves": [
+    "Harden",
+    "Electroweb",
+    "Mud Shot",
+    "Endure"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 36,
+    "HP": 57,
+    "SpecialDefence": 75,
+    "Attack": 82,
+    "SpecialAttack": 55,
+    "Defence": 95
+  },
+  "eggCycles": 15,
+  "spawnLocations": [],
+  "evYields": {"Defence": 2},
+  "evolutions": [{
+    "moves": ["Thunderbolt"],
+    "to": {"name": "Vikavolt"},
+    "conditions": [{
+      "biomes": [
+        "minecraft:extreme_hills",
+        "minecraft:smaller_extreme_hills",
+        "minecraft:extreme_hills_with_trees",
+        "minecraft:mutated_extreme_hills",
+        "minecraft:mutated_extreme_hills_with_trees"
+      ],
+      "evoConditionType": "biome"
+    }],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumFast",
+  "height": 0.5,
+  "baseExp": 140,
+  "types": [
+    "Bug",
+    "Electric"
+  ],
+  "pixelmonName": "Charjabug",
+  "pokemon": "Charjabug",
+  "eggGroups": ["Bug"],
+  "preEvolutions": ["Grubbin"],
+  "length": 0.5,
+  "trMoves": [
+    8,
+    20,
+    26,
+    27,
+    32,
+    46,
+    57,
+    60,
+    80,
+    86
+  ],
+  "weight": 10.5,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": -1,
+  "spawnLevelRange": 15,
+  "width": 0.5,
+  "canFly": false,
+  "forms": {}
+}

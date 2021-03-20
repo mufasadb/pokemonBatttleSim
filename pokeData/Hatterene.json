@@ -1,0 +1,164 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "0": [
+      "Psycho Cut",
+      "Brutal Swing",
+      "Confusion",
+      "Play Nice",
+      "Life Dew",
+      "Disarming Voice"
+    ],
+    "55": ["Healing Wish"],
+    "46": ["Psychic"],
+    "25": ["Heal Pulse"],
+    "15": ["Aromatherapy"],
+    "37": ["Calm Mind"],
+    "30": ["Dazzling Gleam"],
+    "20": ["Psybeam"],
+    "64": ["Magic Powder"]
+  },
+  "tmMoves8": [
+    8,
+    9,
+    10,
+    14,
+    17,
+    19,
+    21,
+    24,
+    25,
+    28,
+    29,
+    31,
+    39,
+    41,
+    44,
+    60,
+    61,
+    65,
+    69,
+    70,
+    71,
+    72,
+    76,
+    87,
+    92,
+    97
+  ],
+  "tmMoves": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Light Screen",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Attract",
+    "Facade",
+    "Shadow Claw",
+    "Trick Room",
+    "Round",
+    "Brutal Swing",
+    "Swords Dance",
+    "Psychic",
+    "Substitute",
+    "Psyshock",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Skill Swap",
+    "Calm Mind",
+    "Dark Pulse",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "Expanding Force",
+    "Misty Explosion"
+  ],
+  "catchRate": 45,
+  "spawnLevel": 55,
+  "abilities": [
+    "Healer",
+    "Anticipation",
+    "MagicBounce"
+  ],
+  "eggMoves": [
+    "After You",
+    "Aromatic Mist",
+    "Nuzzle",
+    "Quash"
+  ],
+  "isRideable": true,
+  "malePercent": 0,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": 0.3,
+      "z": -0.5
+    },
+    "moving": {
+      "x": 0,
+      "y": 0.3,
+      "z": -0.5
+    }
+  },
+  "stats": {
+    "Speed": 29,
+    "HP": 57,
+    "SpecialDefence": 103,
+    "Attack": 90,
+    "SpecialAttack": 136,
+    "Defence": 95
+  },
+  "eggCycles": 21,
+  "spawnLocations": ["Land"],
+  "evYields": {"SpecialAttack": 3},
+  "evolutions": [],
+  "experienceGroup": "Slow",
+  "height": 1,
+  "baseExp": 255,
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "pixelmonName": "Hatterene",
+  "pokemon": "Hatterene",
+  "eggGroups": ["Fairy"],
+  "preEvolutions": [
+    "Hattrem",
+    "Hatenna"
+  ],
+  "length": 1,
+  "trMoves": [
+    0,
+    11,
+    20,
+    25,
+    26,
+    27,
+    29,
+    33,
+    34,
+    40,
+    49,
+    58,
+    72,
+    82,
+    90,
+    92
+  ],
+  "weight": 5.1,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "form": 0,
+  "baseFriendship": 50,
+  "spawnLevelRange": 3,
+  "width": 1,
+  "canFly": false
+}

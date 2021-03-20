@@ -1,0 +1,163 @@
+{
+  "canSurf": true,
+  "levelUpMoves": {
+    "0": [
+      "Octolock",
+      "Octazooka",
+      "Rock Smash",
+      "Leer",
+      "Feint",
+      "Bind"
+    ],
+    "45": ["Superpower"],
+    "35": ["Taunt"],
+    "25": ["Bulk Up"],
+    "15": ["Detect"],
+    "50": ["Topsy-Turvy"],
+    "40": ["Reversal"],
+    "30": ["Submission"],
+    "20": ["Brick Break"]
+  },
+  "tmMoves8": [
+    0,
+    4,
+    8,
+    9,
+    15,
+    21,
+    24,
+    25,
+    26,
+    31,
+    36,
+    39,
+    42,
+    43,
+    45,
+    53,
+    55,
+    57,
+    63,
+    76,
+    79,
+    97,
+    98
+  ],
+  "tmMoves": [
+    "Mega Punch",
+    "Ice Punch",
+    "Hyper Beam",
+    "Giga Impact",
+    "Dig",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Whirlpool",
+    "Facade",
+    "Brick Break",
+    "Dive",
+    "Brine",
+    "Payback",
+    "Drain Punch",
+    "Round",
+    "Retaliate",
+    "Brutal Swing",
+    "Body Slam",
+    "Surf",
+    "Waterfall",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Taunt",
+    "Bulk Up",
+    "Focus Blast",
+    "Work Up"
+  ],
+  "tutorMoves": [
+    "Coaching",
+    "Skitter Smack"
+  ],
+  "catchRate": 45,
+  "spawnLevel": 41,
+  "abilities": [
+    "Limber",
+    null,
+    "Technician"
+  ],
+  "eggMoves": [
+    "Circle Throw",
+    "Pain Split",
+    "Power-Up Punch",
+    "Seismic Toss",
+    "Soak",
+    "Sucker Punch"
+  ],
+  "isRideable": true,
+  "malePercent": 50,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": 0,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0,
+      "y": 0,
+      "z": -0.4
+    }
+  },
+  "stats": {
+    "Speed": 42,
+    "HP": 80,
+    "SpecialDefence": 80,
+    "Attack": 118,
+    "SpecialAttack": 70,
+    "Defence": 90
+  },
+  "eggCycles": 26,
+  "spawnLocations": ["Water"],
+  "evYields": {"Attack": 2},
+  "evolutions": [],
+  "experienceGroup": "MediumSlow",
+  "height": 1,
+  "baseExp": 168,
+  "types": ["Fighting"],
+  "pixelmonName": "Grapploct",
+  "pokemon": "Grapploct",
+  "eggGroups": [
+    "Water1",
+    "Humanlike"
+  ],
+  "preEvolutions": ["Clobbopus"],
+  "length": 1,
+  "trMoves": [
+    1,
+    3,
+    4,
+    16,
+    20,
+    21,
+    26,
+    27,
+    37,
+    39,
+    45,
+    48,
+    53,
+    64,
+    85,
+    98
+  ],
+  "weight": 39,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "form": 0,
+  "baseFriendship": 50,
+  "spawnLevelRange": 16,
+  "width": 1,
+  "canFly": false
+}

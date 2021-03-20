@@ -1,0 +1,198 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "33": ["Psyshock"],
+    "1": [
+      "Scratch",
+      "Leer"
+    ],
+    "3": ["Fake Out"],
+    "6": ["Disarming Voice"],
+    "18": ["Covet"],
+    "9": ["Confusion"],
+    "30": [
+      "Light Screen",
+      "Reflect"
+    ],
+    "21": ["Psybeam"]
+  },
+  "tmMoves8": [
+    2,
+    14,
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    31,
+    33,
+    34,
+    39,
+    40,
+    41,
+    47,
+    57,
+    70,
+    71,
+    72,
+    76
+  ],
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Charge Beam",
+    "Payback",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide",
+    "Cut",
+    "Iron Tail",
+    "Recycle",
+    "Shock Wave",
+    "Snatch",
+    "Snore",
+    "Work Up",
+    "Pay Day",
+    "Swift",
+    "Endure",
+    "Skill Swap",
+    "Ally Switch"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "catchRate": 190,
+  "spawnLevel": 15,
+  "abilities": [
+    "KeenEye",
+    "Infiltrator",
+    "OwnTempo"
+  ],
+  "eggMoves": [
+    "Yawn",
+    "Tickle",
+    "Assist",
+    "Barrier",
+    "Trick"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 68,
+    "HP": 62,
+    "SpecialDefence": 60,
+    "Attack": 48,
+    "SpecialAttack": 63,
+    "Defence": 54
+  },
+  "eggCycles": 20,
+  "spawnLocations": ["Land"],
+  "evYields": {"Speed": 1},
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "form": 0,
+        "name": "Meowstic"
+      },
+      "conditions": [{
+        "genders": ["Male"],
+        "evoConditionType": "gender"
+      }],
+      "evoType": "leveling"
+    },
+    {
+      "level": 25,
+      "to": {
+        "form": 1,
+        "name": "Meowstic"
+      },
+      "conditions": [{
+        "genders": ["Female"],
+        "evoConditionType": "gender"
+      }],
+      "evoType": "leveling"
+    }
+  ],
+  "experienceGroup": "MediumFast",
+  "height": 0.3,
+  "baseExp": 71,
+  "types": ["Psychic"],
+  "pixelmonName": "Espurr",
+  "pokemon": "Espurr",
+  "eggGroups": ["Field"],
+  "preEvolutions": [],
+  "length": 0.3,
+  "trMoves": [
+    8,
+    11,
+    20,
+    25,
+    26,
+    27,
+    31,
+    38,
+    40,
+    49,
+    58,
+    65,
+    68,
+    69,
+    83,
+    85,
+    90
+  ],
+  "weight": 3.5,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 0,
+  "form": 0,
+  "spawnLevelRange": 9,
+  "width": 0.3,
+  "canFly": false,
+  "forms": {}
+}

@@ -1,0 +1,66 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {"1": ["Struggle Bug"]},
+  "tmMoves8": [],
+  "tmMoves": [],
+  "tutorMoves": [],
+  "catchRate": 255,
+  "spawnLevel": 4,
+  "abilities": [
+    "Swarm",
+    "CompoundEyes",
+    "Telepathy"
+  ],
+  "eggMoves": [
+    "Infestation",
+    "Supersonic",
+    "Sticky Web",
+    "Recover"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 45,
+    "HP": 25,
+    "SpecialDefence": 45,
+    "Attack": 20,
+    "SpecialAttack": 25,
+    "Defence": 20
+  },
+  "eggCycles": 16,
+  "spawnLocations": ["Land"],
+  "evYields": {"SpecialDefence": 1},
+  "evolutions": [{
+    "level": 10,
+    "moves": [
+      "Reflect",
+      "Light Screen",
+      "Confusion"
+    ],
+    "to": {"name": "Dottler"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumFast",
+  "height": 0.4,
+  "baseExp": 36,
+  "types": ["Bug"],
+  "pixelmonName": "Blipbug",
+  "pokemon": "Blipbug",
+  "eggGroups": ["Bug"],
+  "preEvolutions": [],
+  "length": 0.5,
+  "trMoves": [],
+  "weight": 8,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 50,
+  "form": 0,
+  "spawnLevelRange": 6,
+  "width": 0.5,
+  "canFly": false,
+  "forms": {}
+}

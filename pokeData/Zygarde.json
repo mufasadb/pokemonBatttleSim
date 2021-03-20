@@ -1,0 +1,224 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "44": ["Haze"],
+    "55": ["Earthquake"],
+    "35": ["Sandstorm"],
+    "26": ["Land's Wrath"],
+    "59": ["Camouflage"],
+    "18": ["Bind"],
+    "0": [
+      "Glare",
+      "Bulldoze",
+      "Dragon Breath",
+      "Bite"
+    ],
+    "5": ["Safeguard"],
+    "80": ["Outrage"],
+    "72": ["Coil"],
+    "51": ["Crunch"],
+    "63": ["Dragon Pulse"],
+    "10": ["Dig"]
+  },
+  "tmMoves8": [
+    8,
+    21,
+    22,
+    25,
+    32,
+    19,
+    34,
+    39,
+    43,
+    9,
+    76,
+    81,
+    15,
+    24
+  ],
+  "tmMoves": [
+    "Hyper Beam",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Brick Break",
+    "Focus Blast",
+    "Giga Impact",
+    "Stone Edge",
+    "Grass Knot",
+    "Sludge Wave",
+    "Round",
+    "Bulldoze",
+    "Dragon Tail",
+    "Confide",
+    "Dig",
+    "Secret Power",
+    "Strength",
+    "Rock Smash",
+    "Dragon Pulse",
+    "Iron Tail",
+    "Shock Wave",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Block",
+    "Draco Meteor",
+    "Dragon Pulse",
+    "Earth Power",
+    "Hyper Voice",
+    "Iron Tail",
+    "Outrage",
+    "Pain Split",
+    "Shock Wave",
+    "Snore",
+    "Spite",
+    "Stomping Tantrum",
+    "Superpower",
+    "Zen Headbutt",
+    "Land's Wrath",
+    "Glare",
+    "Safeguard",
+    "Dragon Breath",
+    "Thousand Arrows",
+    "Extreme Speed",
+    "Dragon Dance"
+  ],
+  "catchRate": 3,
+  "spawnLevel": 1,
+  "abilities": [
+    "AuraBreak",
+    "PowerConstruct",
+    null
+  ],
+  "eggMoves": [],
+  "isRideable": true,
+  "malePercent": -1,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": -0.3,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0,
+      "y": -0.3,
+      "z": -0.6
+    }
+  },
+  "stats": {
+    "Speed": 95,
+    "HP": 108,
+    "SpecialDefence": 95,
+    "Attack": 100,
+    "SpecialAttack": 81,
+    "Defence": 121
+  },
+  "eggCycles": 121,
+  "spawnLocations": ["Land"],
+  "evYields": {"HP": 3},
+  "evolutions": [],
+  "experienceGroup": "Slow",
+  "height": 2.5,
+  "baseExp": 270,
+  "types": [
+    "Dragon",
+    "Ground"
+  ],
+  "pixelmonName": "Zygarde",
+  "pokemon": "Zygarde",
+  "eggGroups": ["Undiscovered"],
+  "preEvolutions": [],
+  "length": 1.5,
+  "trMoves": [
+    10,
+    20,
+    27,
+    64,
+    75,
+    77,
+    78,
+    62,
+    31
+  ],
+  "weight": 305,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 0,
+  "form": 0,
+  "spawnLevelRange": 99,
+  "width": 1.5,
+  "canFly": false,
+  "forms": {
+    "1": {
+      "ridingOffsets": {
+        "standing": {
+          "x": 0,
+          "y": -1,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0,
+          "y": -1,
+          "z": -0.6
+        }
+      },
+      "form": 1,
+      "stats": {
+        "Speed": 115,
+        "HP": 54,
+        "SpecialDefence": 85,
+        "Attack": 100,
+        "SpecialAttack": 61,
+        "Defence": 71
+      },
+      "width": 1,
+      "length": 1,
+      "weight": 33.5,
+      "height": 1.4
+    },
+    "2": {
+      "ridingOffsets": {
+        "standing": {
+          "x": 0,
+          "y": 3.7,
+          "z": 0.1
+        },
+        "moving": {
+          "x": 0,
+          "y": 3.7,
+          "z": 0.1
+        }
+      },
+      "form": 2,
+      "stats": {
+        "Speed": 85,
+        "HP": 216,
+        "SpecialDefence": 95,
+        "Attack": 100,
+        "SpecialAttack": 91,
+        "Defence": 121
+      },
+      "width": 3,
+      "length": 3,
+      "weight": 610,
+      "height": 6.6
+    }
+  }
+}

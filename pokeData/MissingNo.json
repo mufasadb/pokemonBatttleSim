@@ -1,0 +1,215 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {"0": [
+    "Water Gun",
+    "Sky Attack",
+    "Pay Day",
+    "Bind"
+  ]},
+  "tmMoves8": [
+    1,
+    21,
+    14,
+    6
+  ],
+  "tmMoves": [
+    "Razor Wind",
+    "Swords Dance",
+    "Mega Kick",
+    "Toxic",
+    "Take Down",
+    "Double-Edge",
+    "Bubble Beam",
+    "Ice Beam",
+    "Blizzard",
+    "Submission",
+    "Seismic Toss",
+    "Rage",
+    "Thunder",
+    "Earthquake",
+    "Fissure",
+    "Psychic",
+    "Teleport",
+    "Sky Attack",
+    "Rest",
+    "Thunder Wave",
+    "Tri Attack",
+    "Substitute",
+    "Cut",
+    "Fly"
+  ],
+  "tutorMoves": [],
+  "catchRate": 1,
+  "spawnLevel": 10,
+  "abilities": [
+    "Error",
+    null,
+    null
+  ],
+  "eggMoves": [],
+  "isRideable": false,
+  "malePercent": -1,
+  "stats": {
+    "Speed": 29,
+    "HP": 33,
+    "SpecialDefence": 6,
+    "Attack": 136,
+    "SpecialAttack": 6,
+    "Defence": 0
+  },
+  "eggCycles": 21,
+  "spawnLocations": ["Land"],
+  "evYields": {},
+  "evolutions": [],
+  "experienceGroup": "Slow",
+  "height": 3,
+  "baseExp": 64,
+  "types": [
+    "Flying",
+    "Normal"
+  ],
+  "pixelmonName": "MissingNo",
+  "pokemon": "MissingNo",
+  "eggGroups": ["Undiscovered"],
+  "preEvolutions": [],
+  "length": 0.7,
+  "trMoves": [
+    0,
+    5,
+    6,
+    9,
+    10,
+    11,
+    19,
+    20
+  ],
+  "weight": 1590.8,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "form": 0,
+  "baseFriendship": 70,
+  "spawnLevelRange": 6,
+  "width": 1.2,
+  "canFly": false,
+  "forms": {
+    "80": {
+      "canSurf": false,
+      "levelUpMoves": {
+        "0": [
+          "Explosion",
+          "Stomp",
+          "Dragon Breath",
+          "Charge Beam",
+          "Bulldoze"
+        ],
+        "55": [
+          "Lock-On",
+          "Zap Cannon"
+        ],
+        "67": ["Hyper Beam"],
+        "25": ["Curse"],
+        "37": ["Iron Defense"],
+        "39": ["Hammer Arm"],
+        "80": ["Dragon Energy"],
+        "61": ["Superpower"],
+        "31": ["Ancient Power"],
+        "43": ["Dragon Pulse"]
+      },
+      "tmMoves8": [],
+      "tutorMoves": [],
+      "catchRate": 3,
+      "spawnLevel": 10,
+      "abilities": [
+        "DragonsMaw",
+        null,
+        null
+      ],
+      "isRideable": false,
+      "malePercent": -1,
+      "stats": {
+        "Speed": 50,
+        "HP": 80,
+        "SpecialDefence": 75,
+        "Attack": 75,
+        "SpecialAttack": 150,
+        "Defence": 150
+      },
+      "evYields": {"SpecialAttack": 3},
+      "evolutions": [],
+      "height": 2.7,
+      "baseExp": 261,
+      "types": ["Dragon"],
+      "pixelmonName": "Regidrago",
+      "eggGroups": ["Undiscovered"],
+      "preEvolutions": [],
+      "length": 2.2,
+      "trMoves": [],
+      "weight": 440.9,
+      "baseFriendship": 70,
+      "spawnLevelRange": 6,
+      "width": 3,
+      "canFly": false
+    },
+    "81": {
+      "canSurf": false,
+      "levelUpMoves": {
+        "55": ["Lock-On"],
+        "67": ["Hyper Beam"],
+        "13": ["Electroweb"],
+        "25": ["Curse"],
+        "37": ["Amnesia"],
+        "49": ["Hammer Arm"],
+        "19": ["Bulldoze"],
+        "0": [
+          "Explosion",
+          "Stomp",
+          "Charge Beam",
+          "Bulldoze",
+          "Electroweb"
+        ],
+        "7": ["Charge Beam"],
+        "80": ["Thunder Cage"],
+        "61": ["Superpower"],
+        "31": ["Ancient Power"],
+        "43": ["Thunderbolt"]
+      },
+      "tmMoves8": [],
+      "tutorMoves": [],
+      "catchRate": 3,
+      "spawnLevel": 10,
+      "abilities": [
+        "Transistor",
+        null,
+        null
+      ],
+      "isRideable": false,
+      "malePercent": -1,
+      "stats": {
+        "Speed": 150,
+        "HP": 80,
+        "SpecialDefence": 75,
+        "Attack": 50,
+        "SpecialAttack": 150,
+        "Defence": 75
+      },
+      "evYields": {"SpecialAttack": 3},
+      "evolutions": [],
+      "height": 2.7,
+      "baseExp": 261,
+      "types": ["Electric"],
+      "pixelmonName": "Regieleki",
+      "eggGroups": ["Undiscovered"],
+      "preEvolutions": [],
+      "length": 2.2,
+      "trMoves": [],
+      "weight": 319.7,
+      "baseFriendship": 70,
+      "spawnLevelRange": 6,
+      "width": 3,
+      "canFly": false
+    }
+  }
+}

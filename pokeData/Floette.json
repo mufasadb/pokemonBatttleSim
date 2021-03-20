@@ -1,0 +1,181 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "33": ["Petal Blizzard"],
+    "46": ["Moonblast"],
+    "25": ["Magical Leaf"],
+    "58": ["Solar Beam"],
+    "15": ["Razor Leaf"],
+    "27": ["Grassy Terrain"],
+    "38": ["Aromatherapy"],
+    "0": [
+      "Tackle",
+      "Vine Whip",
+      "Fairy Wind"
+    ],
+    "6": ["Fairy Wind"],
+    "51": ["Petal Dance"],
+    "20": ["Wish"],
+    "10": ["Lucky Chant"],
+    "43": ["Misty Terrain"]
+  },
+  "tmMoves8": [
+    11,
+    21,
+    25,
+    31,
+    19,
+    33,
+    34,
+    39,
+    76,
+    28,
+    24
+  ],
+  "tmMoves": [
+    "Solar Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Nature Power",
+    "Calm Mind",
+    "Energy Ball",
+    "Grass Knot",
+    "Round",
+    "Echoed Voice",
+    "Confide",
+    "Dazzling Gleam",
+    "Flash",
+    "Secret Power",
+    "Giga Drain",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Ally Switch",
+    "Covet",
+    "Endeavor",
+    "Giga Drain",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat",
+    "Seed Bomb",
+    "Snore",
+    "Synthesis",
+    "Worry Seed"
+  ],
+  "catchRate": 120,
+  "spawnLevel": 20,
+  "abilities": [
+    "FlowerVeil",
+    null,
+    "Symbiosis"
+  ],
+  "eggMoves": [
+    "Camouflage",
+    "Captivate",
+    "Copycat",
+    "Tearful Look"
+  ],
+  "isRideable": false,
+  "malePercent": 0,
+  "stats": {
+    "Speed": 52,
+    "HP": 54,
+    "SpecialDefence": 98,
+    "Attack": 45,
+    "SpecialAttack": 75,
+    "Defence": 47
+  },
+  "eggCycles": 21,
+  "spawnLocations": ["Land"],
+  "evYields": {"SpecialDefence": 2},
+  "evolutions": [{
+    "item": {"itemID": "pixelmon:shiny_stone"},
+    "to": {"name": "Florges"},
+    "conditions": [],
+    "evoType": "interact"
+  }],
+  "experienceGroup": "MediumFast",
+  "height": 0.2,
+  "baseExp": 130,
+  "types": ["Fairy"],
+  "pixelmonName": "Floette",
+  "pokemon": "Floette",
+  "eggGroups": ["Fairy"],
+  "preEvolutions": ["Flabebe"],
+  "length": 0.2,
+  "trMoves": [
+    11,
+    20,
+    27,
+    49,
+    65,
+    77,
+    92
+  ],
+  "weight": 0.9,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 0,
+  "form": 0,
+  "spawnLevelRange": 10,
+  "width": 0.2,
+  "canFly": false,
+  "forms": {
+    "1": {"form": 1},
+    "2": {"form": 2},
+    "3": {"form": 3},
+    "4": {"form": 4},
+    "5": {
+      "eggGroups": ["Undiscovered"],
+      "form": 5,
+      "stats": {
+        "Speed": 92,
+        "HP": 74,
+        "SpecialDefence": 128,
+        "Attack": 65,
+        "SpecialAttack": 125,
+        "Defence": 67
+      },
+      "preEvolutions": [],
+      "levelUpMoves": {
+        "33": ["Petal Blizzard"],
+        "46": ["Moonblast"],
+        "25": ["Magical Leaf"],
+        "58": ["Solar Beam"],
+        "15": ["Razor Leaf"],
+        "27": ["Grassy Terrain"],
+        "38": ["Aromatherapy"],
+        "0": [
+          "Tackle",
+          "Vine Whip",
+          "Fairy Wind"
+        ],
+        "6": ["Fairy Wind"],
+        "50": ["Light of Ruin"],
+        "51": ["Petal Dance"],
+        "20": ["Wish"],
+        "10": ["Lucky Chant"],
+        "43": ["Misty Terrain"]
+      },
+      "evolutions": []
+    }
+  }
+}

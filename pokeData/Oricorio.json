@@ -1,0 +1,167 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "33": ["Captivate"],
+    "23": ["Double Slap"],
+    "13": ["Air Cutter"],
+    "46": ["Agility"],
+    "36": ["Air Slash"],
+    "26": ["Teeter Dance"],
+    "16": ["Baton Pass"],
+    "0": ["Pound"],
+    "4": ["Growl"],
+    "6": ["Peck"],
+    "50": ["Hurricane"],
+    "40": ["Revelation Dance"],
+    "30": ["Roost"],
+    "20": ["Feather Dance"],
+    "10": ["Helping Hand"],
+    "43": ["Mirror Move"]
+  },
+  "tmMoves8": [
+    6,
+    21,
+    25,
+    32,
+    30,
+    31,
+    19,
+    39,
+    56,
+    76,
+    78
+  ],
+  "tmMoves": [
+    "Swords Dance",
+    "Fly",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Facade",
+    "Taunt",
+    "Aerial Ace",
+    "Calm Mind",
+    "Roost",
+    "U-Turn",
+    "Embargo",
+    "Round",
+    "Quash",
+    "Acrobatics",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Defog",
+    "Helping Hand",
+    "Icy Wind",
+    "Role Play",
+    "Sky Attack",
+    "Snore",
+    "Tailwind"
+  ],
+  "catchRate": 45,
+  "spawnLevel": 15,
+  "abilities": [
+    "Dancer",
+    null,
+    null
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Pluck",
+    "Safeguard",
+    "Tailwind"
+  ],
+  "isRideable": false,
+  "malePercent": 25,
+  "stats": {
+    "Speed": 93,
+    "HP": 75,
+    "SpecialDefence": 70,
+    "Attack": 70,
+    "SpecialAttack": 98,
+    "Defence": 70
+  },
+  "eggCycles": 20,
+  "flyingParameters": {
+    "landingMaterials": "LEAVES_AND_GRASS",
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateY": 100,
+    "flyHeightMin": 0,
+    "flightTimeMin": 0,
+    "flyHeightMax": 10,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "flySpeedModifier": 0.8,
+    "flyRefreshRateSpeed": 100
+  },
+  "spawnLocations": ["Air"],
+  "evYields": {"SpecialAttack": 2},
+  "evolutions": [],
+  "experienceGroup": "MediumFast",
+  "height": 0.6,
+  "baseExp": 167,
+  "types": [
+    "Fire",
+    "Flying"
+  ],
+  "pixelmonName": "Oricorio",
+  "pokemon": "Oricorio",
+  "eggGroups": ["Flying"],
+  "preEvolutions": [],
+  "length": 0.6,
+  "trMoves": [
+    0,
+    20,
+    27,
+    37,
+    49,
+    85
+  ],
+  "weight": 3.4,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": -1,
+  "spawnLevelRange": 20,
+  "width": 0.6,
+  "canFly": true,
+  "forms": {
+    "1": {
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "form": 1
+    },
+    "2": {
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "form": 2
+    },
+    "3": {
+      "types": [
+        "Ghost",
+        "Flying"
+      ],
+      "form": 3
+    }
+  }
+}

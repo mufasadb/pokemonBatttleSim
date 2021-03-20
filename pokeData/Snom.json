@@ -1,0 +1,99 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {"0": [
+    "Powder Snow",
+    "Struggle Bug"
+  ]},
+  "tmMoves8": [
+    21,
+    24,
+    25,
+    27,
+    31,
+    39,
+    51,
+    76
+  ],
+  "tmMoves": [
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Facade",
+    "Round",
+    "Substitute",
+    "Endure",
+    "Sleep Talk"
+  ],
+  "tutorMoves": ["Skitter Smack"],
+  "catchRate": 190,
+  "spawnLevel": 38,
+  "abilities": [
+    "ShieldDust",
+    null,
+    "IceScales"
+  ],
+  "eggMoves": [
+    "Bug Bite",
+    "Fairy Wind",
+    "Mirror Coat"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 20,
+    "HP": 30,
+    "SpecialDefence": 30,
+    "Attack": 25,
+    "SpecialAttack": 45,
+    "Defence": 35
+  },
+  "eggCycles": 21,
+  "evYields": {"SpecialAttack": 1},
+  "spawnLocations": ["Land"],
+  "evolutions": [{
+    "moves": ["Icy Wind"],
+    "to": {"name": "Frosmoth"},
+    "conditions": [
+      {
+        "friendship": 220,
+        "evoConditionType": "friendship"
+      },
+      {
+        "time": "NIGHT",
+        "evoConditionType": "time"
+      }
+    ],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumFast",
+  "height": 1,
+  "baseExp": 37,
+  "types": [
+    "Ice",
+    "Bug"
+  ],
+  "pixelmonName": "Snom",
+  "pokemon": "Snom",
+  "eggGroups": ["Bug"],
+  "preEvolutions": [],
+  "length": 0.9,
+  "trMoves": [
+    20,
+    26,
+    27,
+    61
+  ],
+  "weight": 3.8,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "form": 0,
+  "baseFriendship": 50,
+  "spawnLevelRange": 14,
+  "width": 0.8,
+  "canFly": false
+}

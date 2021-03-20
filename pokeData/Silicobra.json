@@ -1,0 +1,124 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "1": [
+      "Wrap",
+      "Sand Attack"
+    ],
+    "45": ["Coil"],
+    "35": ["Sandstorm"],
+    "25": ["Glare"],
+    "15": ["Bulldoze"],
+    "5": ["Minimize"],
+    "50": ["Sand Tomb"],
+    "40": ["Slam"],
+    "30": ["Dig"],
+    "20": ["Headbutt"],
+    "10": ["Brutal Swing"]
+  },
+  "tmMoves8": [
+    15,
+    16,
+    21,
+    24,
+    25,
+    31,
+    32,
+    39,
+    49,
+    53,
+    76,
+    81,
+    97
+  ],
+  "tmMoves": [
+    "Attract",
+    "Brutal Swing",
+    "Bulldoze",
+    "Dig",
+    "Drill Run",
+    "Earth Power",
+    "Earthquake",
+    "Endure",
+    "Facade",
+    "Mud Shot",
+    "Protect",
+    "Rest",
+    "Round",
+    "Sand Tomb",
+    "Sandstorm",
+    "Screech",
+    "Sleep Talk",
+    "Snore",
+    "Substitute"
+  ],
+  "tutorMoves": [
+    "Scorching Sands",
+    "Skitter Smack"
+  ],
+  "catchRate": 255,
+  "spawnLevel": 15,
+  "abilities": [
+    "SandSpit",
+    "ShedSkin",
+    "SandVeil"
+  ],
+  "eggMoves": [
+    "Belch",
+    "Dragon Rush",
+    "Last Resort",
+    "Mud-Slap",
+    "Poison Tail"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 46,
+    "HP": 52,
+    "SpecialDefence": 50,
+    "Attack": 57,
+    "SpecialAttack": 35,
+    "Defence": 75
+  },
+  "eggCycles": 21,
+  "spawnLocations": ["Land"],
+  "evYields": {"Defence": 1},
+  "evolutions": [{
+    "level": 36,
+    "to": {"name": "Sandaconda"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "MediumFast",
+  "height": 0.5,
+  "baseExp": 63,
+  "types": ["Ground"],
+  "pixelmonName": "Silicobra",
+  "pokemon": "Silicobra",
+  "eggGroups": [
+    "Field",
+    "Dragon"
+  ],
+  "preEvolutions": [],
+  "length": 6,
+  "trMoves": [
+    10,
+    20,
+    26,
+    27,
+    67,
+    87
+  ],
+  "weight": 7.6,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 50,
+  "form": 0,
+  "spawnLevelRange": 20,
+  "width": 0.8,
+  "canFly": false,
+  "forms": {}
+}

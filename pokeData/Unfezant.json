@@ -1,0 +1,183 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "66": ["Sky Attack"],
+    "1": [
+      "Gust",
+      "Growl",
+      "Leer",
+      "Quick Attack"
+    ],
+    "12": ["Taunt"],
+    "36": ["Detect"],
+    "58": ["Tailwind"],
+    "26": ["Feather Dance"],
+    "16": ["Air Cutter"],
+    "50": ["Roost"],
+    "20": ["Swagger"],
+    "42": ["Air Slash"]
+  },
+  "tmMoves8": [
+    6,
+    8,
+    9,
+    21,
+    24,
+    25,
+    30,
+    31,
+    33,
+    34,
+    39,
+    40,
+    56,
+    76,
+    95
+  ],
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Giga Impact",
+    "Psych Up",
+    "Work Up",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Fly",
+    "Razor Wind",
+    "Sky Attack",
+    "Snore",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Roost",
+    "Secret Power",
+    "Confide",
+    "Swift",
+    "Endure"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Heat Wave",
+    "Tailwind",
+    "Uproar",
+    "Air Slash",
+    "Feather Dance",
+    "Gust",
+    "Hypnosis",
+    "Morning Sun",
+    "Wish",
+    "Leer",
+    "Defog"
+  ],
+  "catchRate": 45,
+  "spawnLevel": 33,
+  "abilities": [
+    "BigPecks",
+    "SuperLuck",
+    "Rivalry"
+  ],
+  "eggMoves": [
+    "Bestow",
+    "Hypnosis",
+    "Lucky Chant",
+    "Morning Sun",
+    "Night Slash",
+    "Steel Wing",
+    "Uproar",
+    "Wish"
+  ],
+  "isRideable": true,
+  "malePercent": 50,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": 0.35,
+      "z": 0
+    },
+    "moving": {
+      "x": 0,
+      "y": 0.25,
+      "z": 0
+    }
+  },
+  "stats": {
+    "Speed": 93,
+    "HP": 80,
+    "SpecialDefence": 55,
+    "Attack": 115,
+    "SpecialAttack": 65,
+    "Defence": 80
+  },
+  "eggCycles": 16,
+  "flyingParameters": {
+    "landingMaterials": "LEAVES_AND_GRASS",
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateY": 100,
+    "flyHeightMin": 5,
+    "flightTimeMin": 0,
+    "flyHeightMax": 25,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "flySpeedModifier": 1.4,
+    "flyRefreshRateSpeed": 100
+  },
+  "spawnLocations": ["AirPersistent"],
+  "evYields": {"Attack": 3},
+  "evolutions": [],
+  "experienceGroup": "MediumSlow",
+  "height": 1.2,
+  "baseExp": 215,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "pixelmonName": "Unfezant",
+  "pokemon": "Unfezant",
+  "eggGroups": ["Flying"],
+  "preEvolutions": [
+    "Tranquill",
+    "Pidove"
+  ],
+  "length": 1,
+  "trMoves": [
+    12,
+    13,
+    20,
+    26,
+    27,
+    35,
+    36,
+    37,
+    66,
+    85,
+    89
+  ],
+  "weight": 29,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": 0,
+  "spawnLevelRange": 14,
+  "width": 1,
+  "canFly": true,
+  "forms": {}
+}

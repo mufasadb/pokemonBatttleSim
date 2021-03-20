@@ -1,0 +1,121 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "23": ["Aerial Ace"],
+    "67": ["Psycho Cut"],
+    "13": ["Razor Leaf"],
+    "47": ["X-Scissor"],
+    "37": ["Swords Dance"],
+    "59": ["Air Slash"],
+    "29": ["Laser Focus"],
+    "19": ["Synthesis"],
+    "0": [
+      "Sacred Sword",
+      "Defog",
+      "Vacuum Wave",
+      "Air Cutter",
+      "Fury Cutter",
+      "Cut"
+    ],
+    "7": ["False Swipe"],
+    "73": ["Guillotine"],
+    "31": ["Night Slash"],
+    "53": ["Detect"],
+    "43": ["Leaf Blade"]
+  },
+  "tmMoves8": [
+    21,
+    25,
+    94,
+    43,
+    9,
+    76,
+    96
+  ],
+  "tmMoves": [
+    "Swords Dance",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "False Swipe",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Brick Break",
+    "Aerial Ace",
+    "Calm Mind",
+    "X-Scissor",
+    "Giga Impact",
+    "Round",
+    "Confide",
+    "Smart Strike"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Giga Drain",
+    "Iron Defense",
+    "Knock Off",
+    "Laser Focus",
+    "Last Resort",
+    "Snore",
+    "Synthesis",
+    "Tailwind"
+  ],
+  "catchRate": 45,
+  "spawnLevel": 70,
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggMoves": [],
+  "isRideable": false,
+  "malePercent": -1,
+  "stats": {
+    "Speed": 109,
+    "HP": 59,
+    "SpecialDefence": 31,
+    "Attack": 181,
+    "SpecialAttack": 59,
+    "Defence": 131
+  },
+  "eggCycles": 120,
+  "spawnLocations": [],
+  "evYields": {"Attack": 3},
+  "evolutions": [],
+  "experienceGroup": "Slow",
+  "height": 0.3,
+  "baseExp": 114,
+  "types": [
+    "Grass",
+    "Steel"
+  ],
+  "pixelmonName": "Kartana",
+  "pokemon": "Kartana",
+  "eggGroups": ["Undiscovered"],
+  "preEvolutions": [],
+  "length": 0.3,
+  "trMoves": [
+    0,
+    20,
+    27,
+    49,
+    60
+  ],
+  "weight": 0.1,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 70,
+  "form": -1,
+  "spawnLevelRange": 0,
+  "width": 0.3,
+  "canFly": false,
+  "forms": {}
+}

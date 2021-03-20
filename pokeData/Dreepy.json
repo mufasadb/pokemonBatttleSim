@@ -1,0 +1,102 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {"0": [
+    "Astonish",
+    "Infestation",
+    "Quick Attack",
+    "Bite"
+  ]},
+  "tmMoves8": [
+    14,
+    21,
+    24,
+    25,
+    31,
+    39,
+    40,
+    41,
+    76
+  ],
+  "tmMoves": [
+    "Thunder Wave",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Facade",
+    "Swift",
+    "Round",
+    "Substitute",
+    "Endure",
+    "Sleep Talk"
+  ],
+  "tutorMoves": ["Draco Meteor"],
+  "catchRate": 45,
+  "spawnLevel": 40,
+  "abilities": [
+    "ClearBody",
+    "Infiltrator",
+    "CursedBody"
+  ],
+  "eggMoves": [
+    "Confuse Ray",
+    "Curse",
+    "Disable",
+    "Double Team",
+    "Dragon Tail",
+    "Grudge",
+    "Sucker Punch"
+  ],
+  "isRideable": false,
+  "malePercent": 50,
+  "stats": {
+    "Speed": 82,
+    "HP": 28,
+    "SpecialDefence": 30,
+    "Attack": 60,
+    "SpecialAttack": 40,
+    "Defence": 30
+  },
+  "eggCycles": 41,
+  "spawnLocations": ["Land"],
+  "evYields": {"Speed": 1},
+  "evolutions": [{
+    "level": 50,
+    "moves": ["Dragon Pulse"],
+    "to": {"name": "Drakloak"},
+    "conditions": [],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "Slow",
+  "height": 1,
+  "baseExp": 54,
+  "types": [
+    "Dragon",
+    "Ghost"
+  ],
+  "pixelmonName": "Dreepy",
+  "pokemon": "Dreepy",
+  "eggGroups": [
+    "Amorphous",
+    "Dragon"
+  ],
+  "preEvolutions": [],
+  "length": 0.9,
+  "trMoves": [
+    20,
+    26,
+    27,
+    29
+  ],
+  "weight": 2,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "form": 0,
+  "baseFriendship": 50,
+  "spawnLevelRange": 4,
+  "width": 0.8,
+  "canFly": false
+}

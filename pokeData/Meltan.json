@@ -1,0 +1,99 @@
+{
+  "canSurf": false,
+  "levelUpMoves": {
+    "1": [
+      "Thunder Shock",
+      "Harden"
+    ],
+    "24": ["Thunder Wave"],
+    "16": ["Headbutt"],
+    "8": ["Tail Whip"],
+    "40": ["Flash Cannon"],
+    "32": ["Acid Armor"]
+  },
+  "tmMoves8": [
+    14,
+    21,
+    24,
+    25,
+    39,
+    76
+  ],
+  "tmMoves": [
+    "Headbutt",
+    "Rest",
+    "Protect",
+    "Substitute",
+    "Thunder Wave",
+    "Toxic",
+    "Thunderbolt",
+    "Flash Cannon",
+    "Snore",
+    "Facade",
+    "Round",
+    "Endure",
+    "Sleep Talk",
+    "Gyro Ball"
+  ],
+  "tutorMoves": [],
+  "catchRate": 3,
+  "spawnLevel": 5,
+  "abilities": [
+    "MagnetPull",
+    null,
+    null
+  ],
+  "eggMoves": [],
+  "isRideable": false,
+  "malePercent": -1,
+  "stats": {
+    "Speed": 34,
+    "HP": 46,
+    "SpecialDefence": 35,
+    "Attack": 65,
+    "SpecialAttack": 55,
+    "Defence": 65
+  },
+  "eggCycles": 120,
+  "spawnLocations": [],
+  "evYields": {"Attack": 1},
+  "evolutions": [{
+    "moves": ["Thunder Punch"],
+    "to": {"name": "Melmetal"},
+    "conditions": [{
+      "ores": 400,
+      "evoConditionType": "ores"
+    }],
+    "evoType": "leveling"
+  }],
+  "experienceGroup": "Slow",
+  "height": 0.2,
+  "baseExp": 135,
+  "types": ["Steel"],
+  "pixelmonName": "Meltan",
+  "pokemon": "Meltan",
+  "eggGroups": ["Undiscovered"],
+  "preEvolutions": [],
+  "length": 0.2,
+  "trMoves": [
+    8,
+    20,
+    26,
+    27,
+    46,
+    52,
+    70
+  ],
+  "weight": 8,
+  "aggression": {
+    "timid": 100,
+    "aggressive": 0,
+    "passive": 0
+  },
+  "baseFriendship": 0,
+  "form": -1,
+  "spawnLevelRange": 0,
+  "width": 0.2,
+  "canFly": false,
+  "forms": {}
+}

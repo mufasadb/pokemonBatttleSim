@@ -1,0 +1,170 @@
+{
+  "canSurf": true,
+  "levelUpMoves": {
+    "12": ["Bubble"],
+    "23": ["Poison Tail"],
+    "35": ["Aqua Tail"],
+    "25": ["Water Pulse"],
+    "15": ["Acid"],
+    "59": ["Dragon Tail"],
+    "38": ["Sludge Bomb"],
+    "28": ["Double Team"],
+    "19": ["Camouflage"],
+    "0": [
+      "Dragon Tail",
+      "Tackle",
+      "Smokescreen",
+      "Water Gun",
+      "Feint Attack",
+      "Twister"
+    ],
+    "5": ["Feint Attack"],
+    "9": ["Tail Whip"],
+    "42": ["Hydro Pump"],
+    "53": ["Dragon Pulse"],
+    "32": ["Toxic"]
+  },
+  "tmMoves8": [
+    35,
+    74,
+    8,
+    25,
+    33,
+    39,
+    21,
+    31,
+    76,
+    9,
+    45,
+    27,
+    24
+  ],
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Venoshock",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Scald",
+    "Giga Impact",
+    "Dragon Tail",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Dragon Pulse",
+    "Icy Wind",
+    "Iron Tail",
+    "Shock Wave",
+    "Snore",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Draco Meteor",
+    "Gunk Shot",
+    "Outrage"
+  ],
+  "catchRate": 55,
+  "spawnLevel": 49,
+  "abilities": [
+    "PoisonPoint",
+    "PoisonTouch",
+    "Adaptability"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Haze",
+    "Play Rough",
+    "Toxic Spikes",
+    "Venom Drench"
+  ],
+  "isRideable": true,
+  "malePercent": 50,
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.05,
+      "y": -0.4,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.05,
+      "y": -0.8,
+      "z": 0
+    }
+  },
+  "stats": {
+    "Speed": 44,
+    "HP": 65,
+    "SpecialDefence": 123,
+    "Attack": 75,
+    "SpecialAttack": 97,
+    "Defence": 90
+  },
+  "eggCycles": 21,
+  "spawnLocations": ["Water"],
+  "evYields": {"SpecialDefence": 2},
+  "evolutions": [],
+  "experienceGroup": "MediumFast",
+  "height": 1.8,
+  "baseExp": 173,
+  "types": [
+    "Poison",
+    "Dragon"
+  ],
+  "pixelmonName": "Dragalge",
+  "pokemon": "Dragalge",
+  "eggGroups": [
+    "Water1",
+    "Dragon"
+  ],
+  "preEvolutions": ["Skrelp"],
+  "length": 1.8,
+  "trMoves": [
+    8,
+    9,
+    33,
+    78,
+    22,
+    64,
+    84,
+    27,
+    20,
+    4,
+    16,
+    62,
+    31
+  ],
+  "weight": 81.5,
+  "aggression": {
+    "timid": 80,
+    "aggressive": 20,
+    "passive": 0
+  },
+  "baseFriendship": 0,
+  "form": 0,
+  "spawnLevelRange": 11,
+  "width": 1.8,
+  "canFly": false,
+  "forms": {}
+}
