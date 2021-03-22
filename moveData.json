@@ -482,7 +482,12 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"accuracy", "stages": -1}],
+        "effects": [
+            {
+                "stat": "accuracy",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -673,7 +678,12 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"defence", "stages": -1}],
+        "effects": [
+            {
+                "stat": "defence",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -749,7 +759,12 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat": "defense", "stages": -1}],
+        "effects": [
+            {
+                "stat": "defense",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -783,7 +798,12 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"attack", "stages": -1}],
+        "effects": [
+            {
+                "stat": "attack",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -893,7 +913,13 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialDefence", "stages": 1,"chance":0.1}],
+        "effects": [
+            {
+                "stat": "specialDefence",
+                "stages": 1,
+                "chance": 0.1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -1083,7 +1109,13 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"attack", "stages": -1, "chance":0.1}],
+        "effects": [
+            {
+                "stat": "attack",
+                "stages": -1,
+                "chance": 0.1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -1100,7 +1132,13 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"attack", "stages": -1,"chance":0.1}],
+        "effects": [
+            {
+                "stat": "attack",
+                "stages": -1,
+                "chance": 0.1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -1305,7 +1343,16 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialAttack", "stages": 1}, {"stat":"attack", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "specialAttack",
+                "stages": 1
+            },
+            {
+                "stat": "attack",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -1435,7 +1482,12 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"speed", "stages": -2}],
+        "effects": [
+            {
+                "stat": "speed",
+                "stages": -2
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -1676,7 +1728,13 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"defence", "stages": -1, "chance":0.1}],
+        "effects": [
+            {
+                "stat": "defence",
+                "stages": -1,
+                "chance": 0.1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -1714,7 +1772,12 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"attack", "stages": 1}],
+        "effects": [
+            {
+                "stat": "attack",
+                "stages": 1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -1732,7 +1795,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"speed", "stages": 2}],
+        "selfEffects": [
+            {
+                "stat": "speed",
+                "stages": 2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -1833,7 +1901,12 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"defence", "stages": -2}],
+        "effects": [
+            {
+                "stat": "defence",
+                "stages": -2
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -1871,7 +1944,7 @@
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0,
-        "heal":"50%"
+        "heal": "50%"
     },
     {
         "#": "106",
@@ -1886,7 +1959,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -1919,7 +1997,12 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"accuracy", "stages": -1}],
+        "effects": [
+            {
+                "stat": "accuracy",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -1958,7 +2041,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -1975,7 +2063,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -1992,7 +2085,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": 2}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": 2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -2130,7 +2228,8 @@
         "effects": [],
         "selfEffects": [],
         "hitCount": 1,
-        "hitRepeatCount": 0
+        "hitRepeatCount": 0,
+        "selfDamage": 100
     },
     {
         "#": "121",
@@ -2314,7 +2413,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -2347,7 +2451,13 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"speed", "stages": 1,"chance":0.1}],
+        "effects": [
+            {
+                "stat": "speed",
+                "stages": 1,
+                "chance": 0.1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -2365,7 +2475,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialDefence", "stages": 2}],
+        "selfEffects": [
+            {
+                "stat": "specialDefence",
+                "stages": 2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -2381,7 +2496,12 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"accuracy", "stages": -1}],
+        "effects": [
+            {
+                "stat": "accuracy",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -2401,8 +2521,8 @@
         "effects": [],
         "selfEffects": [],
         "hitCount": 1,
-        "hitRepeatCount": 0, 
-        "heal":"50%"
+        "hitRepeatCount": 0,
+        "heal": "50%"
     },
     {
         "#": "136",
@@ -2581,7 +2701,13 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"speed", "stages": 1,"chance":0.1}],
+        "effects": [
+            {
+                "stat": "speed",
+                "stages": 1,
+                "chance": 0.1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -2640,7 +2766,12 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"attack", "stages": -1}],
+        "effects": [
+            {
+                "stat": "attack",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -2692,7 +2823,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": 2}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": 2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -2707,7 +2843,13 @@
         "Accuracy": "90",
         "Gen": "I",
         "status": [],
-        "statusChance": [{"stat":"attack", "stages": 2, "chance":0.125}],
+        "statusChance": [
+            {
+                "stat": "attack",
+                "stages": 2,
+                "chance": 0.125
+            }
+        ],
         "effects": [],
         "selfEffects": [],
         "hitCount": 1,
@@ -2728,7 +2870,8 @@
         "effects": [],
         "selfEffects": [],
         "hitCount": 1,
-        "hitRepeatCount": 0
+        "hitRepeatCount": 0,
+        "selfDamage": 100
     },
     {
         "#": "154",
@@ -2828,7 +2971,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -2869,7 +3017,18 @@
             0.065,
             0.065
         ],
-        "effects": [{"stat":"attack", "stages": -1, "chance": 0.5}, {"stat":"defence", "stages": -1, "chance": 0.5}],
+        "effects": [
+            {
+                "stat": "attack",
+                "stages": -1,
+                "chance": 0.5
+            },
+            {
+                "stat": "defence",
+                "stages": -1,
+                "chance": 0.5
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -2937,7 +3096,12 @@
         "Gen": "I",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialAttack", "stages": -1}],
+        "effects": [
+            {
+                "stat": "specialAttack",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -3097,7 +3261,8 @@
         "effects": [],
         "selfEffects": [],
         "hitCount": 1,
-        "hitRepeatCount": 0
+        "hitRepeatCount": 0,
+        "selfDamage": 50
     },
     {
         "#": "175",
@@ -3146,7 +3311,13 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": 2, "chance":0.125}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": 2,
+                "chance": 0.125
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -3162,7 +3333,12 @@
         "Gen": "II",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"speed", "stages": -2}],
+        "effects": [
+            {
+                "stat": "speed",
+                "stages": -2
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -3268,7 +3444,12 @@
         "Gen": "II",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"speed", "stages": -2}],
+        "effects": [
+            {
+                "stat": "speed",
+                "stages": -2
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -3361,7 +3542,12 @@
         "Gen": "II",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"accuracy", "stages": -1}],
+        "effects": [
+            {
+                "stat": "accuracy",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -3378,7 +3564,13 @@
         "Gen": "II",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"attack", "stages": -2, "chance":0.5}],
+        "effects": [
+            {
+                "stat": "attack",
+                "stages": -2,
+                "chance": 0.5
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -3484,7 +3676,12 @@
         "Gen": "II",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"speed", "stages": -1}],
+        "effects": [
+            {
+                "stat": "speed",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -3620,7 +3817,12 @@
         "Gen": "II",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"attack", "stages": -2}],
+        "effects": [
+            {
+                "stat": "attack",
+                "stages": -2
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -3696,7 +3898,7 @@
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0,
-        "heal":"50%"
+        "heal": "50%"
     },
     {
         "#": "209",
@@ -3749,7 +3951,13 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": 1,"chance":0.1}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": 1,
+                "chance": 0.1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -4100,7 +4308,13 @@
         "Gen": "II",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"defence", "stages": -1,"chance":0.3}],
+        "effects": [
+            {
+                "stat": "defence",
+                "stages": -1,
+                "chance": 0.3
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -4118,7 +4332,13 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": 1,"chance":0.1}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": 1,
+                "chance": 0.1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -4155,7 +4375,7 @@
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0,
-        "heal":"50%"
+        "heal": "50%"
     },
     {
         "#": "235",
@@ -4173,7 +4393,7 @@
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0,
-        "heal":"50%"
+        "heal": "50%"
     },
     {
         "#": "236",
@@ -4191,7 +4411,7 @@
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0,
-        "heal":"50%"
+        "heal": "50%"
     },
     {
         "#": "237",
@@ -4290,7 +4510,13 @@
         "Gen": "II",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"defence", "stages": -1,"chance":0.2}],
+        "effects": [
+            {
+                "stat": "defence",
+                "stages": -1,
+                "chance": 0.2
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -4308,7 +4534,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialAttack", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "specialAttack",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -4359,7 +4590,18 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": 2, "chance":0.1}, {"stat":"defence", "stages": 2, "chance":0.1}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": 2,
+                "chance": 0.1
+            },
+            {
+                "stat": "defence",
+                "stages": 2,
+                "chance": 0.1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -4375,7 +4617,13 @@
         "Gen": "II",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialDefence", "stages": -1, "chance": 0.2}],
+        "effects": [
+            {
+                "stat": "specialDefence",
+                "stages": -1,
+                "chance": 0.2
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -4409,7 +4657,13 @@
         "Gen": "II",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"defence", "stages": -1, "chance": 0.5}],
+        "effects": [
+            {
+                "stat": "defence",
+                "stages": -1,
+                "chance": 0.5
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -4532,7 +4786,7 @@
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0,
-        "heal":"50%"
+        "heal": "50%"
     },
     {
         "#": "257",
@@ -4746,7 +5000,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialDefence", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "specialDefence",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -4882,7 +5141,16 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": -1}, {"stat":"defence", "stages": -1}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": -1
+            },
+            {
+                "stat": "defence",
+                "stages": -1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -5198,7 +5466,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialAttack", "stages": 3}],
+        "selfEffects": [
+            {
+                "stat": "specialAttack",
+                "stages": 3
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -5214,7 +5487,13 @@
         "Gen": "III",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialDefence", "stages": -1, "chance":0.5}],
+        "effects": [
+            {
+                "stat": "specialDefence",
+                "stages": -1,
+                "chance": 0.5
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -5231,7 +5510,13 @@
         "Gen": "III",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialAttack", "stages": -1, "chance": 0.5}],
+        "effects": [
+            {
+                "stat": "specialAttack",
+                "stages": -1,
+                "chance": 0.5
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -5248,7 +5533,12 @@
         "Gen": "III",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"attack", "stages": -2}],
+        "effects": [
+            {
+                "stat": "attack",
+                "stages": -2
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -5307,7 +5597,12 @@
         "Gen": "III",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"accuracy", "stages": -1}],
+        "effects": [
+            {
+                "stat": "accuracy",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -5362,7 +5657,7 @@
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0,
-        "heal":"50%"
+        "heal": "50%"
     },
     {
         "#": "304",
@@ -5466,7 +5761,13 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": 1,"chance":0.2}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": 1,
+                "chance": 0.2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -5533,7 +5834,12 @@
         "Gen": "III",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialDefence", "stages": -2}],
+        "effects": [
+            {
+                "stat": "specialDefence",
+                "stages": -2
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -5568,7 +5874,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": -2}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": -2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -5619,7 +5930,33 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": 1, "chance": 0.1},{"stat":"specialAttack", "stages": 1, "chance": 0.1}, {"stat":"defence", "stages": 1,"chance":0.1}, {"stat":"specialDefence", "stages": 1,"chance":0.1}, {"stat":"speed", "stages": 1,"chance":0.1}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": 1,
+                "chance": 0.1
+            },
+            {
+                "stat": "specialAttack",
+                "stages": 1,
+                "chance": 0.1
+            },
+            {
+                "stat": "defence",
+                "stages": 1,
+                "chance": 0.1
+            },
+            {
+                "stat": "specialDefence",
+                "stages": 1,
+                "chance": 0.1
+            },
+            {
+                "stat": "speed",
+                "stages": 1,
+                "chance": 0.1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -5635,7 +5972,12 @@
         "Gen": "III",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialDefence", "stages": -2}],
+        "effects": [
+            {
+                "stat": "specialDefence",
+                "stages": -2
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -5673,7 +6015,16 @@
         "Gen": "III",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"defence", "stages": -1}, {"stat":"attack", "stages": -1}],
+        "effects": [
+            {
+                "stat": "defence",
+                "stages": -1
+            },
+            {
+                "stat": "attack",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -5691,7 +6042,16 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialDefence", "stages": 1}, {"stat":"defence", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "specialDefence",
+                "stages": 1
+            },
+            {
+                "stat": "defence",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -5728,7 +6088,18 @@
         "statusChance": [
             0.1
         ],
-        "effects": [{"stat":"attack", "stages": -1, "chance": 0.2},{"stat":"defence", "stages": -1, "chance":0.2}],
+        "effects": [
+            {
+                "stat": "attack",
+                "stages": -1,
+                "chance": 0.2
+            },
+            {
+                "stat": "defence",
+                "stages": -1,
+                "chance": 0.2
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -5797,7 +6168,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": -1}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": -1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -5830,7 +6206,13 @@
         "Gen": "III",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"accuracy", "stages": -1, "chance": 0.3}],
+        "effects": [
+            {
+                "stat": "accuracy",
+                "stages": -1,
+                "chance": 0.3
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -5899,7 +6281,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": 2}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": 2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -5933,7 +6320,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -5984,7 +6376,16 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": 2}, {"stat":"attack", "stages": 2}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": 2
+            },
+            {
+                "stat": "attack",
+                "stages": 2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -6020,7 +6421,12 @@
         "Accuracy": "95",
         "Gen": "III",
         "status": [],
-        "statusChance": [{"stat":"accuracy", "stages": -1}],
+        "statusChance": [
+            {
+                "stat": "accuracy",
+                "stages": -1
+            }
+        ],
         "effects": [],
         "selfEffects": [],
         "hitCount": 1,
@@ -6132,7 +6538,16 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialAttack", "stages": 1}, {"stat":"specialDefence", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "specialAttack",
+                "stages": 1
+            },
+            {
+                "stat": "specialDefence",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -6166,7 +6581,16 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"speed", "stages": 1}, {"stat":"attack", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "speed",
+                "stages": 1
+            },
+            {
+                "stat": "attack",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -6255,7 +6679,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": -2}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": -2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -6275,7 +6704,7 @@
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0,
-        "heal":"50%",
+        "heal": "50%",
         "selfStatus": "Sleep"
     },
     {
@@ -6342,7 +6771,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"speed", "stages": -1}],
+        "selfEffects": [
+            {
+                "stat": "speed",
+                "stages": -1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -6478,7 +6912,38 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": 1, "chance": 0.1}, {"stat":"attack", "stages": 1, "chance": 0.1},{"stat":"specialAttack", "stages": 1, "chance": 0.1}, {"stat":"specialDefence", "stages": 1, "chance": 0.1}, {"stat":"accuracy", "stages": 1, "chance": 0.1}, {"stat":"speed", "stages": 1, "chance": 0.1}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": 1,
+                "chance": 0.1
+            },
+            {
+                "stat": "attack",
+                "stages": 1,
+                "chance": 0.1
+            },
+            {
+                "stat": "specialAttack",
+                "stages": 1,
+                "chance": 0.1
+            },
+            {
+                "stat": "specialDefence",
+                "stages": 1,
+                "chance": 0.1
+            },
+            {
+                "stat": "accuracy",
+                "stages": 1,
+                "chance": 0.1
+            },
+            {
+                "stat": "speed",
+                "stages": 1,
+                "chance": 0.1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -6529,7 +6994,16 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": -1}, {"stat":"specialDefence", "stages": -1}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": -1
+            },
+            {
+                "stat": "specialDefence",
+                "stages": -1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -7000,7 +7474,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"speed", "stages": 2}],
+        "selfEffects": [
+            {
+                "stat": "speed",
+                "stages": 2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -7055,7 +7534,13 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": 2, "chance":0.125}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": 2,
+                "chance": 0.125
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -7139,7 +7624,13 @@
         "Gen": "IV",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialDefence", "stages": -1, "chance":0.1}],
+        "effects": [
+            {
+                "stat": "specialDefence",
+                "stages": -1,
+                "chance": 0.1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -7241,7 +7732,13 @@
         "Gen": "IV",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialDefence", "stages": -1,"chance":0.1}],
+        "effects": [
+            {
+                "stat": "specialDefence",
+                "stages": -1,
+                "chance": 0.1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -7258,7 +7755,13 @@
         "Gen": "IV",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialDefence", "stages": -1, "chance":0.1}],
+        "effects": [
+            {
+                "stat": "specialDefence",
+                "stages": -1,
+                "chance": 0.1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -7276,7 +7779,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": -3}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": -3
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -7292,7 +7800,13 @@
         "Gen": "IV",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"defence", "stages": -1, "chance":0.1}],
+        "effects": [
+            {
+                "stat": "defence",
+                "stages": -1,
+                "chance": 0.1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -7344,7 +7858,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialAttack", "stages": 2}],
+        "selfEffects": [
+            {
+                "stat": "specialAttack",
+                "stages": 2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -7508,7 +8027,13 @@
         "Gen": "IV",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"accuracy", "stages": -1, "chance": 0.3}],
+        "effects": [
+            {
+                "stat": "accuracy",
+                "stages": -1,
+                "chance": 0.3
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -7559,7 +8084,13 @@
         "Gen": "IV",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"accuracy", "stages": -1, "chance":0.3}],
+        "effects": [
+            {
+                "stat": "accuracy",
+                "stages": -1,
+                "chance": 0.3
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -7576,7 +8107,13 @@
         "Gen": "IV",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"defence", "stages": -1,"chance":0.1}],
+        "effects": [
+            {
+                "stat": "defence",
+                "stages": -1,
+                "chance": 0.1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -7649,7 +8186,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": -2}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": -2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -7708,7 +8250,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialAttack", "stages": -2}],
+        "selfEffects": [
+            {
+                "stat": "specialAttack",
+                "stages": -2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -7852,7 +8399,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialAttack", "stages": 2}],
+        "selfEffects": [
+            {
+                "stat": "specialAttack",
+                "stages": 2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -8026,7 +8578,16 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialDefence", "stages": 1}, {"stat":"defence", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "specialDefence",
+                "stages": 1
+            },
+            {
+                "stat": "defence",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -8046,7 +8607,7 @@
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0,
-        "heal":"50%"
+        "heal": "50%"
     },
     {
         "#": "457",
@@ -8200,7 +8761,13 @@
         "Gen": "IV",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"defence", "stages": -2, "chance": 0.4}],
+        "effects": [
+            {
+                "stat": "defence",
+                "stages": -2,
+                "chance": 0.4
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -8218,7 +8785,18 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": 2, "chance":0.1}, {"stat":"defence", "stages": 2, "chance":0.1}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": 2,
+                "chance": 0.1
+            },
+            {
+                "stat": "defence",
+                "stages": 2,
+                "chance": 0.1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -8252,7 +8830,16 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": 1}, {"stat":"accuracy", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": 1
+            },
+            {
+                "stat": "accuracy",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -8371,7 +8958,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"speed", "stages": 2}],
+        "selfEffects": [
+            {
+                "stat": "speed",
+                "stages": 2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -8511,7 +9103,20 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialDefence", "stages": 1}, {"stat":"specialAttack", "stages": 1}, {"stat":"speed", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "specialDefence",
+                "stages": 1
+            },
+            {
+                "stat": "specialAttack",
+                "stages": 1
+            },
+            {
+                "stat": "speed",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -8596,7 +9201,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"speed", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "speed",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -8613,7 +9223,20 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages":1}, {"stat":"attack", "stages": 1}, {"stat":"accuracy", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": 1
+            },
+            {
+                "stat": "attack",
+                "stages": 1
+            },
+            {
+                "stat": "accuracy",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -8629,7 +9252,12 @@
         "Gen": "V",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"speed", "stages": -1}],
+        "effects": [
+            {
+                "stat": "speed",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -8646,7 +9274,12 @@
         "Gen": "V",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"defence", "stages": -2}],
+        "effects": [
+            {
+                "stat": "defence",
+                "stages": -2
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -8892,7 +9525,7 @@
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0,
-        "heal":"50%"
+        "heal": "50%"
     },
     {
         "#": "506",
@@ -8941,7 +9574,16 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"speed", "stages": 2}, {"stat":"attack", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "speed",
+                "stages": 2
+            },
+            {
+                "stat": "attack",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -9199,7 +9841,13 @@
         "Gen": "V",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"speed", "stages": 1,"chance":-1}],
+        "effects": [
+            {
+                "stat": "speed",
+                "stages": 1,
+                "chance": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -9251,7 +9899,16 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialAttack", "stages": 1}, {"stat":"attack", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "specialAttack",
+                "stages": 1
+            },
+            {
+                "stat": "attack",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -9267,7 +9924,13 @@
         "Gen": "V",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"speed", "stages": 1,"chance":1}],
+        "effects": [
+            {
+                "stat": "speed",
+                "stages": 1,
+                "chance": 1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -9285,7 +9948,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": -2}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": -2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -9386,7 +10054,13 @@
         "Gen": "V",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"defence", "stages": -1, "chance": 0.5}],
+        "effects": [
+            {
+                "stat": "defence",
+                "stages": -1,
+                "chance": 0.5
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -9420,7 +10094,13 @@
         "Gen": "V",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"accuracy", "stages": -2, "chance":0.5}],
+        "effects": [
+            {
+                "stat": "accuracy",
+                "stages": -2,
+                "chance": 0.5
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -9455,7 +10135,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": 3}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": 3
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -9471,7 +10156,13 @@
         "Gen": "V",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"accuracy", "stages": -1, "chance": 0.4}],
+        "effects": [
+            {
+                "stat": "accuracy",
+                "stages": -1,
+                "chance": 0.4
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -9653,7 +10344,12 @@
         "Gen": "V",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"speed", "stages": 1}],
+        "effects": [
+            {
+                "stat": "speed",
+                "stages": 1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -9713,7 +10409,13 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": 1, "chance":0.5}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": 1,
+                "chance": 0.5
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -9771,7 +10473,12 @@
         "Gen": "V",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialAttack", "stages": -1}],
+        "effects": [
+            {
+                "stat": "specialAttack",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -9806,7 +10513,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": -3}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": -3
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -9942,7 +10654,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -9992,7 +10709,16 @@
         "Gen": "VI",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialAttack", "stages": -1}, {"stat":"attack", "stages": -1}],
+        "effects": [
+            {
+                "stat": "specialAttack",
+                "stages": -1
+            },
+            {
+                "stat": "attack",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -10111,7 +10837,12 @@
         "Gen": "VI",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialAttack", "stages": -1}],
+        "effects": [
+            {
+                "stat": "specialAttack",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -10247,7 +10978,13 @@
         "Gen": "VI",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"attack", "stages": -1, "chance": 0.1}],
+        "effects": [
+            {
+                "stat": "attack",
+                "stages": -1,
+                "chance": 0.1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -10281,7 +11018,13 @@
         "Gen": "VI",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialAttack", "stages": -1, "chance": 0.3}],
+        "effects": [
+            {
+                "stat": "specialAttack",
+                "stages": -1,
+                "chance": 0.3
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -10349,7 +11092,12 @@
         "Gen": "VI",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"attack", "stages": -1}],
+        "effects": [
+            {
+                "stat": "attack",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -10384,7 +11132,13 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": 2, "chance": 0.5}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": 2,
+                "chance": 0.5
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -10455,7 +11209,12 @@
         "Gen": "VI",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialAttack", "stages": -1}],
+        "effects": [
+            {
+                "stat": "specialAttack",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -10490,7 +11249,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialDefence", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "specialDefence",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -10506,7 +11270,12 @@
         "Gen": "VI",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialAttack", "stages": -2}],
+        "effects": [
+            {
+                "stat": "specialAttack",
+                "stages": -2
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -10523,7 +11292,20 @@
         "Gen": "VI",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialAttack", "stages": -1}, {"stat":"attack", "stages": -1}, {"stat":"speed", "stages": -1}],
+        "effects": [
+            {
+                "stat": "specialAttack",
+                "stages": -1
+            },
+            {
+                "stat": "attack",
+                "stages": -1
+            },
+            {
+                "stat": "speed",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -10558,7 +11340,20 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialAttack", "stages": 2}, {"stat":"speed", "stages": 2}, {"stat":"specialDefence", "stages": 2}],
+        "selfEffects": [
+            {
+                "stat": "specialAttack",
+                "stages": 2
+            },
+            {
+                "stat": "speed",
+                "stages": 2
+            },
+            {
+                "stat": "specialDefence",
+                "stages": 2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -10676,7 +11471,12 @@
         "Gen": "VI",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"attack", "stages": -1}],
+        "effects": [
+            {
+                "stat": "attack",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -10745,7 +11545,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"attack", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "attack",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -10881,7 +11686,16 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": -1},{"stat":"specialDefence", "stages": -1}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": -1
+            },
+            {
+                "stat": "specialDefence",
+                "stages": -1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -11547,7 +12361,7 @@
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0,
-        "heal":"50%"
+        "heal": "50%"
     },
     {
         "#": "660",
@@ -11651,7 +12465,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"speed", "stages": -1}],
+        "selfEffects": [
+            {
+                "stat": "speed",
+                "stages": -1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -11671,7 +12490,7 @@
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0,
-        "heal":"50%"
+        "heal": "50%"
     },
     {
         "#": "667",
@@ -11809,7 +12628,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialAttack", "stages": 1}],
+        "selfEffects": [
+            {
+                "stat": "specialAttack",
+                "stages": 1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -11893,7 +12717,12 @@
         "Gen": "VII",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"attack", "stages": -1}],
+        "effects": [
+            {
+                "stat": "attack",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -11910,7 +12739,12 @@
         "Gen": "VII",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"defence", "stages": -1}],
+        "effects": [
+            {
+                "stat": "defence",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -12046,7 +12880,12 @@
         "Gen": "VII",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"attack", "stages": -1}],
+        "effects": [
+            {
+                "stat": "attack",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -12098,7 +12937,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"defence", "stages": -1}],
+        "selfEffects": [
+            {
+                "stat": "defence",
+                "stages": -1
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -12336,7 +13180,12 @@
         "status": [],
         "statusChance": [],
         "effects": [],
-        "selfEffects": [{"stat":"specialAttack", "stages":-2}],
+        "selfEffects": [
+            {
+                "stat": "specialAttack",
+                "stages": -2
+            }
+        ],
         "hitCount": 1,
         "hitRepeatCount": 0
     },
@@ -12386,7 +13235,13 @@
         "Gen": "VII",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"defence", "stages": -1, "chance":0.2}],
+        "effects": [
+            {
+                "stat": "defence",
+                "stages": -1,
+                "chance": 0.2
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -12420,7 +13275,13 @@
         "Gen": "VII",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"defence", "stages": -1,"chance":0.2}],
+        "effects": [
+            {
+                "stat": "defence",
+                "stages": -1,
+                "chance": 0.2
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0
@@ -12505,7 +13366,16 @@
         "Gen": "VII",
         "status": [],
         "statusChance": [],
-        "effects": [{"stat":"specialAttack", "stages": -1}, {"stat":"attack", "stages": -1}],
+        "effects": [
+            {
+                "stat": "specialAttack",
+                "stages": -1
+            },
+            {
+                "stat": "attack",
+                "stages": -1
+            }
+        ],
         "selfEffects": [],
         "hitCount": 1,
         "hitRepeatCount": 0

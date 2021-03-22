@@ -2,8 +2,25 @@ const fs = require('fs');
 
 
 const calculationSettings = {
-    useAccuracy: false
+    useAccuracy: true
 }
+
+const decideValueSettings = {
+    genericDamage: 1,
+    genericWin: 1,
+    hasStat: 1,
+    localWin: 1,
+    localUse: 1,
+    pp: 1,
+    accuracy: 1,
+    power: 10,
+    Paralysis: 1, Confusion: 1, Burn: 1, Poison: 1, Freeze: 1, Sleep: 1,
+    stab: 1,
+    selfDamage: 1,
+    selfBuff: { defence: 1, attack: 1, speed: 1, specialAttack: 1, specialDefense: 1, accuracy: 1, evasion: 1 },
+    enemeyBuff: { defence: 1, attack: 1, speed: 1, specialAttack: 1, specialDefense: 1, accuracy: 1, evasion: 1 }
+}
+
 
 function chooseFromWeightedList(list) {
     //list expects format [{name: string, bias: int}]
@@ -64,6 +81,18 @@ function accuracyModTable(stage) {
     }
 }
 
+function heavySlamTable(attackerWeight, defenderWeight) {
+    let comparitiveWeight = defenderWeight * 100 / attackerWeight
+
+    if (comparitiveWeight > 50) {
+        return 40
+    } else if (comparitiveWeight > 33.5) { return 60 }
+    else if (comparitiveWeight > 25) { return 80 }
+    else if (comparitiveWeight > 20) { return 100 }
+    else { return 120 }
+
+}
+
 
 function statModTable(stage) {
     switch (stage) {
@@ -103,5 +132,7 @@ module.exports = {
     lookupPokemon: (name) => { return lookupPokemon(name) },
     calculateAccuracy: (stage) => { return accuracyModTable(stage) },
     calculateStatMod: (stage) => { return statModTable(stage) },
-    calcSettings: calculationSettings
+    calcHeavySlamPower: (attackerWeight, defenderWeight) => { return heavySlamTable(attackerWeight, defenderWeight) },
+    calcSettings: calculationSettings,
+    decideValueSettings: decideValueSettings
 }
